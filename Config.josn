@@ -1,7 +1,7 @@
 {
 	"code": 200,
 	"config": "默认",
-	"verList": ["默认", "备用", "本地"],
+	"verList": ["默认"],
 	"verUrl": "/Config/Config26.json",
 	"默认": {
 		"type": "1",
