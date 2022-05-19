@@ -2,10 +2,10 @@
 	"code": 200,
 	"config": "默认",
 	"verList": ["默认"],
-	"verUrl": "/Config/Config26.json",
+	"verUrl": "/KELE/Config/Config.josn",
 	"默认": {
 		"type": "1",
-		"haed": "https://xmmz1.coding.net/p/game/d/game/git/raw/master",
+		"haed": "https://gitee.com/api/v5/repos/zeitu_admin/config/contents",
 		"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
 	},
 	"备用": {
