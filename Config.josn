@@ -17,6 +17,11 @@
 		"type": "-1",
 		"haed": "/"
 	},
+	"user": {
+		"type": "2",
+		"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele/contents",
+		"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+	},
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
 	"QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
 	"PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
@@ -30,7 +35,6 @@
 	"教程大全": "https://faka.kl66.cn/wiki/kele/log/#/WIKI",
 	"绑定教程": "https://faka.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
 	"基础教程": "https://mp.weixin.qq.com/s/up7vFFh0_rSq10hd3BKecA",
-	"user": "https://gitee.com/zeitu_admin/kele/raw/master/user/",
 	"game": {
 		"list": ["王者荣耀", "王者荣耀体验服", "lol", "和平精英"],
 		"天天酷跑": {
