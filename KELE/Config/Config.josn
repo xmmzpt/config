@@ -1,6 +1,11 @@
 {
 	"code": 200,
 	"typelist": ["0", "1", "2", "3", "4", "5", "6", "7", "8","08", "9", "10","11","12","13","14","15","16"],
+    "kele": {
+		"type": "1",
+		"haed": "https://gitee.com/api/v5/repos/zeitu_admin/config/contents",
+		"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+	},
 	"config": {
 		"name": "可乐助手4.0",
         "tzpy":"32",
