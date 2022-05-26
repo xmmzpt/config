@@ -836,13 +836,13 @@
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167-smallskin-8.jpg",
 			"code": "16707"
 		}, {
-			"name": "瑶-时之祈愿",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505-smallskin-4.jpg",
-			"code": "50503"
-		}, {
 			"name": "刘备-时之恋人",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/170/170-smallskin-5.jpg",
 			"code": "17004"
+		}, {
+			"name": "瑶-时之祈愿",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505-smallskin-4.jpg",
+			"code": "50503"
 		}, {
 			"name": "小乔-缤纷独角兽",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/106/106-smallskin-5.jpg",
