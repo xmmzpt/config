@@ -840,6 +840,10 @@
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505-smallskin-4.jpg",
 			"code": "50503"
 		}, {
+			"name": "刘备-时之恋人",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/170/170-smallskin-5.jpg",
+			"code": "17004"
+		}, {
 			"name": "小乔-缤纷独角兽",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/106/106-smallskin-5.jpg",
 			"code": "10604"
@@ -913,11 +917,7 @@
 			"name": "亚瑟-心灵战警",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/166-smallskin-4.jpg",
 			"code": "16603"
-		}, {
-			"name": "刘备-时之恋人",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/170/170-smallskin-5.jpg",
-			"code": "17004"
-		}, {
+		},{
 			"name": "李元芳-逐浪之夏",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/173/173-smallskin-4.jpg",
 			"code": "17303"
