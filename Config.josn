@@ -37,8 +37,8 @@
 	"初始化提醒": "没有ROOT可以用框架或虚拟机，不看教程建议不要玩了",
 	"资源中心": "https://app.kl66.cn/",
 	"资源说明": "使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
-	"教程大全": "https://faka.kl66.cn/wiki/kele/log/#/WIKI",
-	"绑定教程": "https://faka.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
+	"教程大全": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
+	"绑定教程": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
 	"基础教程": "https://mp.weixin.qq.com/s/up7vFFh0_rSq10hd3BKecA",
 	"game": {
 		"list": ["王者荣耀", "王者荣耀体验服", "lol", "和平精英"],
