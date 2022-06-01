@@ -146,7 +146,7 @@
 		"name": "更新日志",
 		"biao": "New",
 		"type": "url",
-		"url": "https://faka.kl66.cn/wiki/kele/log/",
+		"url": "https://app.kl66.cn/wiki/kele/log/",
 		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
 	}, {
 		"name": "资源包引入",
@@ -182,19 +182,19 @@
 		"name": "教程大全",
 		"biao": "教程与资源下载",
 		"type": "url",
-		"url": "https://faka.kl66.cn/wiki/kele/log/#/WIKI",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
 		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
 	}, {
 		"name": "资源下载",
 		"biao": "各类资源下载",
 		"type": "url",
-		"url": "https://faka.kl66.cn/wiki/kele/log/#/APP",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/APP",
 		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
 	}, {
 		"name": "助手绑定教程",
 		"biao": "new",
 		"type": "url",
-		"url": "https://faka.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
 		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
 	}, {
 		"name": "可乐代挂网",
@@ -212,7 +212,7 @@
 		"name": "常见问题",
 		"biao": "常见问题大全",
 		"type": "url",
-		"url": "https://faka.kl66.cn/wiki/kele/log/#/BUG",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/BUG",
 		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
 	}, {
 		"name": "问题收集",
@@ -225,13 +225,13 @@
 			"name": "可乐官网",
 			"biao": "教程与资源下载",
 			"type": "url",
-			"url": "https://faka.kl66.cn/wiki/kele/log/#/WIKI",
+			"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
 			"img": "https://s4.ax1x.com/2022/02/16/HWLXTg.png"
 		}, {
 			"name": "使用瑶妹皮肤教程",
 			"biao": "注入模式的原理",
 			"type": "url",
-			"url": "https://faka.kl66.cn/wiki/kele/log/#/WIKI?id=%e7%91%b6%e5%a6%b9%e7%9a%ae%e8%82%a4%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b",
+			"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e7%91%b6%e5%a6%b9%e7%9a%ae%e8%82%a4%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-4.jpg"
 		}, {
 			"name": "工厂密匙\\等级代挂\\授权验证",
@@ -249,14 +249,14 @@
 			"name": "视频教程(免root)",
 			"biao": "你看不到你看不到",
 			"type": "url",
-			"url": "https://subsequent-addition-5c9.notion.site/901af8a8a075460b80b51a12eab7dd08",
+			"url": "https://app.kl66.cn/wiki/file/c04d16e3fe90.mp4",
 			"img": "https://game.gtimg.cn/images/yxzj/coming/v2/skins//image/20210601/16225343693230.jpg"
 		},
 		{
 			"name": "下载链接和教程都有",
 			"biao": "不识字的治不好",
 			"type": "url",
-			"url": "https://subsequent-addition-5c9.notion.site/Q-A-ab4e8a45e6a24066b20f175d2b8a8a92",
+			"url": "https://app.kl66.cn",
 			"img": "https://z3.ax1x.com/2021/04/10/cdMC8S.jpg"
 		}
 	],
