@@ -228,7 +228,7 @@
 		"img": "https://img2.baidu.com/it/u=354615347,123038703&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
 	}],
 	"lunbo": [{
-			"name": "6月8日14:00直播",
+			"name": "6月10日18:00直播",
 			"biao": "今日大量发放邀请码",
 			"type": "url",
 			"url": "https://live.bilibili.com/23395197",
@@ -310,8 +310,8 @@
 				"url": "/Db/pifu/p12.txt",
 				"type": "1" //新皮肤
 			}],
-			"text": "解锁选区界面右边单机模式全皮肤\n解禁韩信武则天\n新增马超-无双飞将\n皮肤错位、锁画质的说明你没重新初始化，初始化后仍然错位请看软件首页更新日志，日志里没写的说明还没更新",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518-smallskin-4.jpg"
+			"text": "解锁选区界面右边单机模式全皮肤\n解禁韩信武则天\n新增高渐离-天秀·音浪\n皮肤错位、锁画质的说明你没重新初始化，初始化后仍然错位请看软件首页更新日志，日志里没写的说明还没更新",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/115/115-smallskin-5.jpg"
 		}, {
 			"name": "无限火力(全英雄无CD版无后摇)S27",
 			"free": "true",
@@ -909,6 +909,10 @@
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/131-smallskin-5.jpg",
 			"code": "13104",
 			"ts": "2"
+		}, {
+			"name": "狄仁杰-超时空战士",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/133/133-smallskin-4.jpg",
+			"code": "13303"
 		}, {
 			"name": "安琪拉-心灵骇客",
 			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/142/142-smallskin-4.jpg",
