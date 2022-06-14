@@ -33,6 +33,63 @@
 			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
 		}
 	},
+    "kele":{
+        "ver":{
+            "ver":"1",
+            "verTxet":"更新公告",
+            "verUrl":"新版本链接"
+        },
+        "key":{
+            "key":"KeleFtyWW16DnWqsx",
+            "keyText":"XXXX",
+            "keyUrl":"https://www.wenjuan.com/s/UZBZJvigYd/",
+            "scores":"90"
+        },
+        "lunbo":[{
+			"name": "6月10日18:00直播",
+			"biao": "今日大量发放邀请码",
+			"type": "url",
+			"url": "https://live.bilibili.com/23395197",
+			"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
+		},{
+			"name": "可乐官网",
+			"biao": "教程与资源下载",
+			"type": "url",
+			"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
+			"img": "https://s4.ax1x.com/2022/02/16/HWLXTg.png"
+		}, {
+			"name": "使用瑶妹皮肤教程",
+			"biao": "注入模式的原理",
+			"type": "url",
+			"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e7%91%b6%e5%a6%b9%e7%9a%ae%e8%82%a4%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-4.jpg"
+		}, {
+			"name": "工厂密匙\\等级代挂\\授权验证",
+			"biao": "网页打不开的请切换wifi\\流量",
+			"type": "url",
+			"url": "https://faka.kl66.cn/",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182-mobileskin-5.jpg"
+		}, {
+			"name": "可乐等级代挂",
+			"biao": "助力你飞速上皇冠",
+			"type": "url",
+			"url": "http://kele.abuu.vip/1193263",
+			"img": "https://z3.ax1x.com/2021/06/18/RSHPR1.png"
+		}, {
+			"name": "视频教程(免root)",
+			"biao": "你看不到你看不到",
+			"type": "url",
+			"url": "https://app.kl66.cn/wiki/file/c04d16e3fe90.mp4",
+			"img": "https://game.gtimg.cn/images/yxzj/coming/v2/skins//image/20210601/16225343693230.jpg"
+		},
+		{
+			"name": "下载链接和教程都有",
+			"biao": "不识字的治不好",
+			"type": "url",
+			"url": "https://app.kl66.cn",
+			"img": "https://z3.ax1x.com/2021/04/10/cdMC8S.jpg"
+		}]
+    },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
 	"QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
 	"PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
