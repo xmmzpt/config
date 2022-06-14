@@ -92,7 +92,9 @@
         "gonggao":{
             "top":{
                 "type":"url",
-                "text":"https://yanhaixiang.com/"
+                "text":"https://yanhaixiang.com/",
+                "size":"8",
+                "color":"红色"
             },
             "win":{
                 "type":"text",
