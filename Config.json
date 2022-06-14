@@ -91,8 +91,8 @@
 		}],
         "gonggao":{
             "top":{
-                "type":"url",
-                "text":"https://www.baidu.com"
+                "type":"html",
+                "text":"<br><h1>测试</h1>"
             },
             "win":{
                 "type":"text",
