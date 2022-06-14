@@ -92,7 +92,7 @@
         "gonggao":{
             "top":{
                 "type":"html",
-                "text":"<a href='kele://tan.kele.db/发生什么事了'>弹窗</a><a href='kele://qq.kele.db/501521511'>QQ</a>",
+                "text":"123<body><a href='kele://tan.kele.db/发生什么事了'>弹窗</a><a href='kele://qq.kele.db/501521511'>QQ</a></body>",
                 "size":"8",
                 "color":"红色"
             },
