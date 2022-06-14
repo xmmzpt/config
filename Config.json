@@ -91,7 +91,7 @@
 		}],
         "gonggao":{
             "top":{
-                "type":"html",
+                "type":"web",
                 "text":"/index.html"
             },
             "win":{
