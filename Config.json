@@ -3,7 +3,7 @@
 	"config": {
 		"gitee": {
 			"type": "1",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/config/contents",
+			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
 			"foot": "?access_token=5347dc45d0622feda6544191c98e324b",
 			"user": "user"
 		},
@@ -19,8 +19,8 @@
 		},
 		"github": {
 			"type": "0",
-			"haed": "https://xmmz1.coding.net/p/game/d/game/git/raw/master",
-			"foot": "?download=false",
+			"haed": "https://raw.githubusercontent.com/xmmzpt/db_bak/master",
+			"foot": "",
 			"user": "user"
 		},
 		"loca": {
