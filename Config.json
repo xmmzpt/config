@@ -91,8 +91,8 @@
 		}],
         "gonggao":{
             "top":{
-                "type":"web",
-                "text":""
+                "type":"url",
+                "text":"https://www.baidu.com"
             },
             "win":{
                 "type":"text",
