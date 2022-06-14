@@ -88,7 +88,17 @@
 			"type": "url",
 			"url": "https://app.kl66.cn",
 			"img": "https://z3.ax1x.com/2021/04/10/cdMC8S.jpg"
-		}]
+		}],
+        "gonggao":{
+            "top":{
+                "type":"web",
+                "text":""
+            },
+            "win":{
+                "type":"text",
+                "text":"弹窗公告"
+            }
+        }
     },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
 	"QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
