@@ -109,7 +109,7 @@
             "skin":{
                 "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
                 "offset":"32",
-                "form":"8",
+                "from":"8",
                 "to":"24",
                 "maxCode":"540",
                 "py":"0"
