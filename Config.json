@@ -106,13 +106,23 @@
             "web":""
         },
         "pifu":{
-            "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
-            "offset":"32",
-            "offset_form":"8",
-            "offset_to":"24",
-            "num":"2",
-            "skin_sign":"0429000069000000",
-            "skin_offset":"784"
+            "skin":{
+                "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
+                "offset":"32",
+                "form":"8",
+                "to":"24",
+                "num":"2",
+                "code":"105",
+                "maxCode":"540",
+                "py":"0"
+            },
+            "skin_new":{
+                "sign":"0429000069000000",
+                "offset":"784",
+                "code":"10500",
+                "maxCode":"540",
+                "py":"0"
+            } 
         }
     },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
