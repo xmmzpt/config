@@ -104,6 +104,15 @@
         "wen":{
             "pifu":"基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n读入方案：读入预置或保存的修改方案\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
             "web":""
+        },
+        "pifu":{
+            "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
+            "offset":"32",
+            "offset_form":"8",
+            "offset_to":"24",
+            "num":"2",
+            "skin_sign":"0429000069000000",
+            "skin_offset":"784"
         }
     },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
