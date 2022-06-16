@@ -120,7 +120,8 @@
                 "xing":"592",
                 "maxCode":"880",
                 "py":"0",
-                "url":"/Config/pifu.json"
+                "url":"/Config/pifu.json",
+                "xing_url":"/Config/xing.json"
             } 
         }
     },
