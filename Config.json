@@ -135,19 +135,19 @@
             "menu":[{
                     "name":"英雄修改",
                     "img":"https://z3.ax1x.com/2021/04/10/cdMC8S.jpg",
-                    "url":""
+                    "url":"hero"
                 },{
                     "name":"装备修改",
                     "img":"",
-                    "url":""
+                    "url":"item"
                 },{
                     "name":"铭文修改",
                     "img":"",
-                    "url":""
+                    "url":"ming"
                 },{
                     "name":"召唤师技能修改", 
                     "img":"",
-                    "url":""
+                    "url":"zhao"
                 }]
         }
     },
