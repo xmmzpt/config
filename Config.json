@@ -148,7 +148,16 @@
                     "name":"召唤师技能修改", 
                     "img":"",
                     "url":"zhao"
-                }]
+                }],
+                "tshero":"/Config/pifu.json",//特殊英雄
+                "list":{
+                    "hero":{
+                        "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
+                        "offset":"32",
+                        "maxCode":"550",
+                        "py":"0"
+                    }
+                }
         }
     },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
