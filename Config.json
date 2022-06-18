@@ -46,7 +46,7 @@
             "scores":"90"
         },
         "lunbo":[{
-			"name": "6月10日18:00直播",
+			"name": "6月18日18:00直播",
 			"biao": "今日大量发放邀请码",
 			"type": "url",
 			"url": "https://live.bilibili.com/23395197",
@@ -130,6 +130,25 @@
                 "url":"/Config/pifu.json",
                 "xing_url":"/Config/xing.json"
             } 
+        },
+        "fty":{
+            "menu":[{
+                    "name":"英雄修改",
+                    "img":"",
+                    "url":""
+                },{
+                    "name":"装备修改",
+                    "img":"",
+                    "url":""
+                },{
+                    "name":"铭文修改",
+                    "img":"",
+                    "url":""
+                },{
+                    "name":"召唤师技能修改", 
+                    "img":"",
+                    "url":""
+                }]
         }
     },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
