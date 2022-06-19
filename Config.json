@@ -148,6 +148,10 @@
                     "name":"召唤师技能修改", 
                     "img":"",
                     "url":"zhao"
+                },{
+                    "name":"模式属性修改", 
+                    "img":"",
+                    "url":"mod"
                 }],
                 "tshero":"/Config/pifu.json",//特殊英雄
                 "list":{
