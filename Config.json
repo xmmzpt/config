@@ -169,6 +169,10 @@
                         "maxCode":"888",
                         "py":"16"
                     }
+                },
+                "list":{
+                    "config":"/Ver5/fty/config/config.json",
+                    "hero":"/Ver5/fty/config/hero.json"
                 }
         }
     },
