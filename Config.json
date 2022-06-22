@@ -160,7 +160,7 @@
                     "img":"",
                     "url":"mod"
                 }],
-                "tshero":"/Config/pifu.json",//特殊英雄
+                "tshero":"/Config/tshero.json",//特殊英雄
                 "sign":{
                     "hero":{
                         "sign":"A81677A2r;B880E64Dr",
