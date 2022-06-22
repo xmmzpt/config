@@ -146,19 +146,19 @@
                 },{
                     "name":"装备修改",
                     "img":"",
-                    "url":"item"
+                    "url":"item1"
                 },{
                     "name":"铭文修改",
                     "img":"",
-                    "url":"ming"
+                    "url":"ming1"
                 },{
                     "name":"召唤师技能修改", 
                     "img":"",
-                    "url":"zhao"
+                    "url":"zhao1"
                 },{
                     "name":"模式属性修改", 
                     "img":"",
-                    "url":"mod"
+                    "url":"mod1"
                 }],
                 "tshero":"/Config/tshero.json",//特殊英雄
                 "sign":{
