@@ -161,7 +161,7 @@
                     "url":"mod"
                 }],
                 "tshero":"/Config/pifu.json",//特殊英雄
-                "list":{
+                "sign":{
                     "hero":{
                         "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
                         "offset":"32",
