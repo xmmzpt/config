@@ -163,10 +163,11 @@
                 "tshero":"/Config/pifu.json",//特殊英雄
                 "sign":{
                     "hero":{
-                        "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
-                        "offset":"32",
-                        "maxCode":"550",
-                        "py":"0"
+                        "sign":"A81677A2r;B880E64Dr",
+                        "code":"105",
+                        "offset":"864",
+                        "maxCode":"888",
+                        "py":"16"
                     }
                 }
         }
