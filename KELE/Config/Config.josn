@@ -23,7 +23,7 @@
 			},
 			"hero": {
 				"type": "2",
-				"address": "a3fec",
+				"address": "60e1c",
 				"offset": "864",
 				"maxCode": "802",
 				"list": "/Diy/hero.json",
@@ -979,8 +979,8 @@
 		"2": {
 			"name": "英雄属性",
 			"text": "血量、攻速、可用的技能等",
-			"sign": "A81677A2B880E64D",
-			"address": "a3fdc"
+			"sign": "1DC8F626F9C96D93",
+			"address": "60e0c"
 		},
 		"3": {
 			"name": "装备属性",
