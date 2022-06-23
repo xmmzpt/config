@@ -1,0 +1,1094 @@
+{
+	"code": 200,
+	"typelist": ["0", "1", "2", "3", "4", "5", "6", "7", "8", "08", "9", "10", "11", "12", "13", "14", "15", "16"],
+	"kele": "功能仓库",
+	"config": {
+		"name": "可乐助手4.0",
+		"tzpy": "32",
+		"ver": "31",
+		"logo": "http://q1.qlogo.cn/g?b=qq&nk=3026066056&s=100",
+		"verText": "1.修复部分框架提示非64位的bug \n2.新增功能使用统计记录\n更详细的更新内容请看软件首页更新日志  \n\n交流群:8018708\n不要在框架里更新\n不要在框架里更新\n不要在框架里更新",
+		"verUrl": "https://pro-file.xiaoheiban.cn/xwz/0893ab71-a3ea-4d16-9429-4ee58ece18ca.apk",
+		"lunboTime": "4000",
+		"key": "KeleFtygp7EMLU1",
+		"keyUrl": "https://www.wenjuan.com/s/UZBZJvigYd/",
+		"txt": "https://xmmz1.coding.net/p/game/d/game/git/raw/master/dm?download=false",
+		"jiaoc": "https://faka.kl66.cn/wiki/kele/log/#/WIKI",
+		"urlbai": "kl66.cn|bb95.cn|cola.52dg.cn|kele6.66dg.cc|erguanmingmin.com|tb.cn|taobao.com|6666fk.com|keleka.cn|pay.dgcc.cc|qq.com|a3e.cn",
+		"fakaurl": "https://keleka.cn/?cid=1&tid=1",
+		"fakatext": "单机卡密无货，上号器和谐",
+		"diy": {
+			"tsyx": {
+				"list": "/Config/tsyx.json"
+			},
+			"hero": {
+				"type": "2",
+				"address": "60e1c",
+				"offset": "864",
+				"maxCode": "802",
+				"list": "/Diy/hero.json",
+				"list2": "/Config/yx.json"
+			},
+			"item": {
+				"type": "3",
+				"address": "1c24b04",
+				"offset": "504",
+				"maxCode": "17290",
+				"list": "/Diy/item.json",
+				"list2": "/Config/zb.json"
+			},
+			"ming": {
+				"type": "4",
+				"address": "1052674",
+				"offset": "320",
+				"maxCode": "10000",
+				"list": "/Diy/ming.json",
+				"list2": "/Config/ming.json"
+			},
+			"skill": {
+				"type": "5",
+				"address": "160968",
+				"offset": "640",
+				"maxCode": "999",
+				"list": "/Diy/skill.json"
+			},
+			"skillxg": {
+				"type": "6",
+				"address": "4680a0",
+				"offset": "960",
+				"maxCode": "964",
+				"list": "/Diy/skillxg.json"
+			},
+			"yei": {
+				"type": "17",
+				"address": "3401b0",
+				"offset": "400",
+				"maxCode": "37",
+				"list": "/Diy/yei.json",
+				"list2": "/Config/ta.json",
+				"yin": "0"
+			},
+			"ta": {
+				"type": "7",
+				"address": "37cbf0",
+				"offset": "232",
+				"maxCode": "10",
+				"list": "/Diy/ta.json",
+				"list2": "/Config/ta.json",
+				"yin": "0"
+			},
+			"bei": {
+				"type": "13",
+				"address": "131cd94",
+				"offset": "176",
+				"maxCode": "122",
+				"list": "/Diy/bei.json",
+				"list2": "/Config/bei.json",
+				"list3": "/Diy/beilist.json",
+				"yin": "1"
+			}
+		},
+
+		"notice": {
+			"top": {
+				"content": "每次游戏更新后必须重新初始化\n每次游戏更新后必须重新初始化\n每次游戏更新后必须重新初始化\n每次游戏更新后必须重新初始化\n所有功能限单机模式下运行\n所有功能限单机模式下运行\n交流群：8018708",
+				"size": "9",
+				"color": "红色",
+				"type": "7"
+			},
+			"win": {
+				"content": "本软件完全免费，如果你是花钱购买的，恭喜你被骗了\n如果你觉得好用可以打赏可乐\n可乐助手更新内容请看更新日志\n每次游戏更新后必须重新初始化\n无效果请关闭加速器等\n\n交流群：8018708\n群简介里的就是可乐的所有群，其他均为假冒的\n作者唯一B站ID：一瓶可狗可乐 \n 抖音和快手号暂时没有账号 \n拿本软件引流 请注明作者",
+				"size": "15",
+				"color": "red",
+				"type": "7"
+			},
+			"xing": {
+				"content": "1就代表第一套星元\n2就代表第二套\n以身体部件的数量为准\n部分星元不是按顺序排列的\n如公孙离是第5套\n妲己女仆是第3套\n吕布机甲是第3套\n改错会显示异常\n更多代码请参考更新日志里的合集",
+				"size": "9",
+				"color": "red",
+				"type": "7"
+			},
+			"sou": {
+				"content": "此功能对性能差的手机极其不友好，慎用\n输入技能代码、CD和偏移量即可进行搜索\n其中CD需要x1000\n大部分主动技能偏移都是196\n名刀和复活甲之类的被动技能偏移是4\n技能代码可以在装备属性或英雄属性界面查看\n右上角放大镜里也有部分代码\n理论上其他代码也可进行搜索",
+				"size": "9",
+				"color": "red",
+				"type": "7"
+			},
+			"tz": {
+				"content": "1012",
+				"size": "9",
+				"color": "red",
+				"type": "7",
+				"url": "https://subsequent-addition-5c9.notion.site/a41273296c98495698b361ed85ed6aca"
+			}
+		}
+
+	},
+	"icon": [{
+		"name": "功能大全",
+		"biao": "new",
+		"type": "win",
+		"url": "db",
+		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
+	}, {
+		"name": "初始化",
+		"biao": "游戏更新后必点",
+		"type": "win",
+		"url": "up",
+		"img": "https://z3.ax1x.com/2021/02/26/yxxznJ.jpg"
+	}, {
+		"name": "星元编辑器",
+		"biao": "自选星元套装",
+		"type": "win",
+		"url": "xing",
+		"img": "https://img2.baidu.com/it/u=371060139,2798550206&fm=26&fmt=auto&gp=0.jpg"
+	}, {
+		"name": "更新日志",
+		"biao": "New",
+		"type": "url",
+		"url": "https://app.kl66.cn/wiki/kele/log/",
+		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
+	}, {
+		"name": "资源包引入",
+		"biao": "一键引入资源包",
+		"type": "win",
+		"url": "in",
+		"img": "https://s4.ax1x.com/2022/02/18/HoyRW8.jpg"
+	}, {
+		"name": "腾讯手游上号器",
+		"biao": "支持扫码上号",
+		"type": "win",
+		"url": "login",
+		"img": "https://z3.ax1x.com/2021/08/28/h3Vo4K.png"
+	}, {
+		"name": "战力查询",
+		"biao": "最低战力",
+		"type": "win",
+		"url": "zhanli",
+		"img": "https://s4.ax1x.com/2022/02/18/HoyRW8.jpg"
+	}, {
+		"name": "QQ交流群",
+		"biao": "禁止重复加群",
+		"type": "group",
+		"url": "ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",
+		"img": "http://q1.qlogo.cn/g?b=qq&nk=1&s=100"
+	}, {
+		"name": "助手频道",
+		"biao": "打卡得邀请码",
+		"type": "url",
+		"url": "https://gitee.com/zeitu/game/raw/master/Qpd",
+		"img": "http://q1.qlogo.cn/g?b=qq&nk=1&s=100"
+	}, {
+		"name": "电报群(需梯子)",
+		"biao": "需要梯子",
+		"type": "url",
+		"url": "https://t.me/KeleFty",
+		"img": "http://q1.qlogo.cn/g?b=qq&nk=1&s=100"
+	}, {
+		"name": "教程大全",
+		"biao": "教程与资源下载",
+		"type": "url",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
+		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
+	}, {
+		"name": "资源下载",
+		"biao": "各类资源下载",
+		"type": "url",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/APP",
+		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
+	}, {
+		"name": "助手绑定教程",
+		"biao": "new",
+		"type": "url",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
+		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
+	}, {
+		"name": "可乐代挂网",
+		"biao": "new",
+		"type": "url",
+		"url": "http://kele.abuu.vip/1193263",
+		"img": "http://cdn.istt.cn/cdn/img/dg/img/ioc.png"
+	}, {
+		"name": "打赏可乐",
+		"biao": "支持作者",
+		"type": "url",
+		"url": "https://pay.erguanmingmin.com/paypage/?merchant=7907VBrAiBAcSaSlJy5UnVakufQbRwdErI4HKj485h5F",
+		"img": "https://img0.baidu.com/it/u=2059550396,509784325&fm=26&fmt=auto&gp=0.jpg"
+	}, {
+		"name": "常见问题",
+		"biao": "常见问题大全",
+		"type": "url",
+		"url": "https://app.kl66.cn/wiki/kele/log/#/BUG",
+		"img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg"
+	}, {
+		"name": "问题收集",
+		"biao": "建议与交流",
+		"type": "url",
+		"url": "https://gitee.com/zeitu/game/raw/master/Qpd",
+		"img": "https://img2.baidu.com/it/u=354615347,123038703&fm=253&fmt=auto&app=138&f=JPEG?w=500&h=500"
+	}],
+	"lunbo": [{
+			"name": "6月18日18:00直播",
+			"biao": "今日大量发放邀请码",
+			"type": "url",
+			"url": "https://live.bilibili.com/23395197",
+			"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
+		},{
+			"name": "可乐官网",
+			"biao": "教程与资源下载",
+			"type": "url",
+			"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
+			"img": "https://s4.ax1x.com/2022/02/16/HWLXTg.png"
+		}, {
+			"name": "使用瑶妹皮肤教程",
+			"biao": "注入模式的原理",
+			"type": "url",
+			"url": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e7%91%b6%e5%a6%b9%e7%9a%ae%e8%82%a4%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-4.jpg"
+		}, {
+			"name": "工厂密匙\\等级代挂\\授权验证",
+			"biao": "网页打不开的请切换wifi\\流量",
+			"type": "url",
+			"url": "https://faka.kl66.cn/",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182-mobileskin-5.jpg"
+		}, {
+			"name": "可乐等级代挂",
+			"biao": "助力你飞速上皇冠",
+			"type": "url",
+			"url": "http://kele.abuu.vip/1193263",
+			"img": "https://z3.ax1x.com/2021/06/18/RSHPR1.png"
+		}, {
+			"name": "视频教程(免root)",
+			"biao": "你看不到你看不到",
+			"type": "url",
+			"url": "https://app.kl66.cn/wiki/file/c04d16e3fe90.mp4",
+			"img": "https://game.gtimg.cn/images/yxzj/coming/v2/skins//image/20210601/16225343693230.jpg"
+		},
+		{
+			"name": "下载链接和教程都有",
+			"biao": "不识字的治不好",
+			"type": "url",
+			"url": "https://app.kl66.cn",
+			"img": "https://z3.ax1x.com/2021/04/10/cdMC8S.jpg"
+		}
+	],
+	"dbtype": [{
+			"name": "自定义替换",
+			"text": "导入自定义文件",
+			"type": "diy"
+		},
+		{
+			"name": "娱乐功能",
+			"text": "娱乐使用",
+			"type": "db"
+		}, {
+			"name": "皮肤脚本",
+			"text": "瑶妹皮肤修复脚本",
+			"type": "json"
+		},
+		{
+			"name": "人机战令",
+			"text": "打战令经验熟练度使用",
+			"type": "db"
+		}, {
+			"name": "冒险功能",
+			"text": "武道远征使用",
+			"type": "db"
+		}
+	],
+	"dblist": [
+		"/Config/wuhuhu", "/Config/1136117475","/Config/雪莉"
+	],
+	"dbfile": {
+		"娱乐功能": [{
+			"name": "单机模式全皮肤S27",
+			"free": "true",
+			"url": [{
+				"url": "/Db/pifu/p11.txt",
+				"type": "0" //单机皮
+			}, {
+				"url": "/Db/pifu/p12.txt",
+				"type": "1" //新皮肤
+			}],
+			"text": "解锁选区界面右边单机模式全皮肤\n解禁韩信武则天\n新增高渐离-天秀·音浪\n皮肤错位、锁画质的说明你没重新初始化，初始化后仍然错位请看软件首页更新日志，日志里没写的说明还没更新",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/115/115-smallskin-5.jpg"
+		}, {
+			"name": "无限火力(全英雄无CD版无后摇)S27",
+			"free": "true",
+			"url": [{
+				"url": "/Db/wxhl/wxhl1.txt",
+				"type": "8" //模式属性
+			}, {
+				"url": "/Db/wxhl/wxhl4.txt",
+				"type": "5" //冷却
+			}],
+			"text": "解锁选区界面右边单机模式\n开局满级，6.5w金币\n全英雄无CD无蓝耗无后摇\n部分召唤师技能、装备主动技能无CD",
+			"img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg"
+		}, {
+			"name": "无限火力(全英雄无CD版有后摇)S27",
+			"free": "true",
+			"url": [{
+				"url": "/Db/wxhl/wxhl1.txt",
+				"type": "8" //模式属性
+			}, {
+				"url": "/Db/wxhl/wxhl5.txt",
+				"type": "5" //冷却
+			}],
+			"text": "解锁选区界面右边单机模式\n开局满级，6.5w金币\n全英雄无CD无蓝耗\n部分召唤师技能、装备主动技能无CD",
+			"img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg"
+		}],
+		"皮肤脚本": [{
+			"name": "瑶妹情人节限定索引修复",
+			"url": "/Db/pifu/505.txt",
+			"text": "先开启全皮肤，再注入此功能,此功能仅限注入模式下才生效\n此功能仅限注入模式下才生效\n此功能仅限注入模式下才生效，直接开启和叠加以及覆盖都不会生效，原理让原皮加载皮肤的资源",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505-smallskin-4.jpg"
+		}],
+		"冒险功能": [{
+			"name": "全等级灵山S26",
+			"url": [{
+				"url": "/Db/ming/lingshan.txt",
+				"type": "4" //铭文属性
+			}],
+			"text": "所有等级灵山铭文属性修改",
+			"img": "https://z3.ax1x.com/2021/02/26/yxvuKH.jpg"
+		}],
+		"工厂脚本": [{
+			"name": "开局满级满金币",
+			"url": "/Json/10003.json",
+			"text": "修改开局满级满金币以及回城和恢复，此功能开启较慢",
+			"img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg"
+		}, {
+			"name": "廉颇修改为其他英雄",
+			"url": "/Json/10015.json",
+			"text": "输入英雄代码即可修改为其他英雄\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/105/105.jpg"
+		}, {
+			"name": "攻击防御塔的伤害上限",
+			"url": "/Json/10017.json",
+			"text": "自定义攻击防御塔的伤害上限\n此功能由四群:2795846542 提供",
+			"img": "https://z3.ax1x.com/2021/08/17/f4sMxx.png"
+		}, {
+			"name": "反甲反伤1000倍",
+			"url": "/Json/10012.json",
+			"text": "反甲反伤1000倍，可以导出脚本自己修改倍率哦\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1327.jpg"
+		}, {
+			"name": "红莲斗篷技能效果改杨戬大招第三段",
+			"url": "/Json/10011.json",
+			"text": "默认是红莲斗篷技能效果改杨戬大招第三段\n更换技能效果代码进行替换\n可从工厂模式复制,乱改会资源损坏\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1331.jpg"
+		}],
+		"在线脚本": [{
+			"name": "光之蒙恬",
+			"url": "/Json/10024.json",
+			"text": "开大试试吧\n此脚本由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/527/527.jpg"
+		}, {
+			"name": "复活甲名刀无CD",
+			"url": "/Json/10001.json",
+			"text": "修改名刀和复活甲无cd",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1337.jpg"
+		}, {
+			"name": "复活甲无限复活(不掉原始遗珠)",
+			"url": "/Json/10005.json",
+			"text": "将复活甲的技能效果修改为训练营人偶的复活效果\n此脚本由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1337.jpg"
+		}, {
+			"name": "回城可移动",
+			"url": "/Json/10014.json",
+			"text": "可以移动中回城，不可打断\n此脚本由四群:2795846542 提供",
+			"img": "https://z3.ax1x.com/2021/08/17/f4UlWT.png"
+		}, {
+			"name": "李白大招不限制",
+			"url": "/Json/10013.json",
+			"text": "李白大招不限制\n此脚本由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/131.jpg"
+		}, {
+			"name": "百里一技能变炮台",
+			"url": "/Json/10016.json",
+			"text": "一技能模型改成百里，向固定方向扫射\n此脚本开启较慢\n脚本由一群:3063488414 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/196/196.jpg"
+		}, {
+			"name": "狄仁杰二技能叠加",
+			"url": "/Json/10022.json",
+			"text": "狄仁杰二技能叠加，掉帧警告\n脚本由一群:3063488414 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/133/133.jpg"
+		}, {
+			"name": "小明一技能击飞",
+			"url": "/Json/10023.json",
+			"text": "小明一技能击飞，开启遛狗模式\n脚本由一群:3063488414 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/501/501.jpg"
+		}, {
+			"name": "马超无限戳",
+			"url": "/Json/10002.json",
+			"text": "修改马超无限戳",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518.jpg"
+		}, {
+			"name": "猴子无限棍",
+			"url": "/Json/10004.json",
+			"text": "修改猴子无限棍",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167.jpg"
+		}, {
+			"name": "貂蝉诈尸",
+			"url": "/Json/10006.json",
+			"text": "貂蝉二技能打到人无限连，死了也会\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/141/141.jpg"
+		}, {
+			"name": "核弹猫",
+			"url": "/Json/10007.json",
+			"text": "沈梦溪放完二技能后的一技能变核弹 \n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/312/312.jpg"
+		}, {
+			"name": "恢复效果改孙策大招不限时间",
+			"url": "/Json/10008.json",
+			"text": "恢复效果改孙策大招不限时间\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/510/510.jpg"
+		}, {
+			"name": "红莲斗篷技能效果改白起一技能",
+			"url": "/Json/10009.json",
+			"text": "红莲斗篷技能效果改白起一技能\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1331.jpg"
+		}, {
+			"name": "红莲斗篷技能效果改马可一技能",
+			"url": "/Json/10010.json",
+			"text": "红莲斗篷技能效果改马可一技能\n此功能由四群:2795846542 提供",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1331.jpg"
+		}],
+		"人机战令": [{
+			"name": "1v1秒赢（新）S26",
+			"url": [{
+				"url": "/Db/miaoying/miaoying1.txt",
+				"type": "7" //红塔1血
+			}, {
+				"url": "/Db/miaoying/miaoying2.txt",
+				"type": "9" //蓝兵时间
+			}],
+			"text": "新思路15秒直接赢\n仅供人机模式使用",
+			"img": "https://z3.ax1x.com/2021/04/19/cTSWcR.png"
+		}, {
+			"name": "1v1(定制版)S26",
+			"free": "true",
+			"url": [{
+				"url": "/Db/miaoying/miaoying1.txt",
+				"type": "7" //红塔1血
+			}, {
+				"url": "/Db/miaoying/miaoying4.txt",
+				"type": "9" //蓝方无兵线 红方4分钟后出兵
+			}],
+			"text": "仅供人机模式使用",
+			"img": "https://z3.ax1x.com/2021/04/19/cTSWcR.png"
+		}],
+		"英雄觉醒": [{
+			"name": "觉醒关羽",
+			"url": [{
+				"url": "/Ding/140/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/140/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒关羽，一技能强化且可暴击，冲锋准备距离缩短一半(开一次大后生效)，大招时长提升至15秒",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/140/140.jpg"
+		}, {
+			"name": "觉醒猴子",
+			"url": [{
+				"url": "/Ding/167/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/167/hero.txt",
+				"type": "2" //
+			}],
+			"text": "群友付费定制，觉醒猴子，一、三技能和普攻强化(强普持续5秒但是图标会显示7秒)，击杀或助攻刷新技能，开局30%暴击率",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167.jpg"
+		}, {
+			"name": "觉醒诸葛亮",
+			"url": [{
+				"url": "/Ding/190/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/190/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒诸葛亮，大招强化、被动强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/190/190.jpg"
+		}, {
+			"name": "觉醒黄忠",
+			"url": [{
+				"url": "/Ding/192/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/192/skillxg.txt",
+				"type": "6" //
+			}, {
+				"url": "/Ding/192/skillxg2.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒黄忠，被动、二技能、大招强化可移动\n此英雄由于数据较多，开启很慢甚至闪退，且用且珍惜",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/192/192.jpg"
+		}, {
+			"name": "觉醒吕布",
+			"url": [{
+				"url": "/Ding/123/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/123/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒吕布，一技能、大招强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/123/123.jpg"
+		}, {
+			"name": "觉醒李白",
+			"url": [{
+				"url": "/Ding/131/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/131/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒李白，大招吸血、一技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/131.jpg"
+		}, {
+			"name": "觉醒凯",
+			"url": [{
+				"url": "/Ding/193/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/193/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒凯，一技能和大招强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/193/193.jpg"
+		}, {
+			"name": "觉醒典韦",
+			"url": [{
+				"url": "/Ding/129/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/129/skillxg.txt",
+				"type": "6" //
+			}, {
+				"url": "/Ding/129/hero.txt",
+				"type": "2" //
+			}],
+			"text": "群友付费定制，觉醒典韦，二、三技能和被动强化(一技能由于限制无法修改)，击杀或助攻刷新技能",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/129/129.jpg"
+		}, {
+			"name": "觉醒项羽",
+			"url": [{
+				"url": "/Ding/135/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/135/skillxg.txt",
+				"type": "6" //
+			}, {
+				"url": "/Ding/135/bei.txt",
+				"type": "13" //
+			}],
+			"text": "群友付费定制，觉醒项羽，全技能强化，被动30秒",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/135/135.jpg"
+		}, {
+			"name": "觉醒后羿",
+			"url": [{
+				"url": "/Ding/169/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/169/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒后羿，一技能强化，被动强化(大招由于限制无法强化)",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/169/169.jpg"
+		}, {
+			"name": "觉醒白起",
+			"url": [{
+				"url": "/Ding/120/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/120/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒白起，一二技能强化，大招强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/120/120.jpg"
+		}, {
+			"name": "觉醒马超",
+			"url": [{
+				"url": "/Ding/518/skill.txt",
+				"type": "5" //
+			}],
+			"text": "群友付费定制，觉醒马超，一二技能强化，大招强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/518/518.jpg"
+		}, {
+			"name": "觉醒花木兰",
+			"url": [{
+				"url": "/Ding/154/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/154/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒花木兰，轻剑二技能强化，重剑一技能和被动强化(重剑一技能第二段有瑕疵，技能指示器只有前方，不能蓄力完，不然只能劈一个方向)",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/154/154.jpg"
+		}, {
+			"name": "觉醒东皇",
+			"url": [{
+				"url": "/Ding/187/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/187/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒东皇，一二技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/187/187.jpg"
+		}, {
+			"name": "觉醒小乔",
+			"url": [{
+				"url": "/Ding/106/skill.txt",
+				"type": "5" //
+			}],
+			"text": "群友付费定制，觉醒小乔，一三技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/106/106.jpg"
+		}, {
+			"name": "觉醒上官婉儿",
+			"url": [{
+				"url": "/Ding/513/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/513/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒上官婉儿，一二三技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/513/513.jpg"
+		}, {
+			"name": "觉醒钟馗",
+			"url": [{
+				"url": "/Ding/175/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/175/hero.txt",
+				"type": "2" //
+			}],
+			"text": "群友付费定制，觉醒钟馗，二技能指示器加长，距离加长，由于被动无法修改，新增一个兰陵王被动用于增加视野，附近有人三秒破隐，可以配合无限火力玩",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/175/175.jpg"
+		}, {
+			"name": "觉醒干将莫邪",
+			"url": [{
+				"url": "/Ding/182/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/182/hero.txt",
+				"type": "2" //
+			}],
+			"text": "群友付费定制，觉醒干将莫邪，二三技能可存储5次，5秒存储一次，大招cd增长至100秒，但是大招效果可以持续到死亡前，且可以恢复全部蓝量，多命中来激活大招吧",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182.jpg"
+		}, {
+			"name": "超级小鹿",
+			"url": [{
+				"url": "/Ding/505/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/505/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，超级小鹿，人形态二技能主动变鹿，小鹿大招和普攻可以攻击,持续到主动解除小鹿形态",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505.jpg"
+		}, {
+			"name": "觉醒孙尚香加强版",
+			"url": [{
+				"url": "/Ding/111/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/111/hero.txt",
+				"type": "2" //
+			}],
+			"text": "群友付费定制，觉醒孙尚香，一二三技能强化，额外享受典韦被动，强化普攻不再减少一技能cd，但是大炮放下之前可以一直强化普攻，攻速拉满开启自动普攻更爽",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111.jpg"
+		}, {
+			"name": "觉醒亚瑟",
+			"url": [{
+				"url": "/Ding/166/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/166/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒亚瑟，一二三技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/166.jpg"
+		}, {
+			"name": "觉醒芈月",
+			"url": [{
+				"url": "/Ding/121/skill.txt",
+				"type": "5" //
+			}, {
+				"url": "/Ding/121/skillxg.txt",
+				"type": "6" //
+			}],
+			"text": "群友付费定制，觉醒芈月，被动一二技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/121/121.jpg"
+		}, {
+			"name": "觉醒鲁班",
+			"url": [{
+				"url": "/Ding/112/skill.txt",
+				"type": "5" //
+			}],
+			"text": "群友付费定制，觉醒鲁班，被动强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/112/112.jpg"
+		}, {
+			"name": "觉醒刘禅",
+			"url": [{
+				"url": "/Ding/114/skill.txt",
+				"type": "5" //
+			}],
+			"text": "群友付费定制，觉醒刘禅，被动大招强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/114/114.jpg"
+		}, {
+			"name": "觉醒安琪拉",
+			"url": [{
+				"url": "/Ding/142/skill.txt",
+				"type": "5" //
+			}],
+			"text": "群友付费定制，觉醒安琪拉，二三技能强化",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/142/142.jpg"
+		}, {
+			"name": "觉醒姜子牙",
+			"url": [{
+				"url": "/Ding/148/skill.txt",
+				"type": "5" //
+			}],
+			"text": "群友付费定制，觉醒姜子牙，二三技能强化（大招长按蓄力，无指示器）",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/148/148.jpg"
+		}],
+		"工厂模型": [{
+			"name": "召唤师技能自定义",
+			"url": [],
+			"text": "自定义一些召唤师技能",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/summoner/80102.jpg",
+			"set": [{
+				"type": "11", //特征类型
+				"name": "治疗",
+				"index": ["1798c3c"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "眩晕",
+				"index": ["1798cdc"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "惩击",
+				"index": ["1798c14"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "干扰",
+				"index": ["1798cb4"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "净化",
+				"index": ["1798d04"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "斩杀",
+				"index": ["1798c64"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "疾跑",
+				"index": ["1798bc4"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "狂暴",
+				"index": ["1798c8c"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "闪现",
+				"index": ["1798d54"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}, {
+				"type": "11", //特征类型
+				"name": "弱化",
+				"index": ["1798d2c"] //地址，多个地址用,分割  如["1581C4","1581C8"]
+			}]
+		}, {
+			"name": "技能存储器 代号2",
+			"url": [],
+			"text": "修改技能存储数量和时间，需配合工厂模式里的英雄属性使用",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/196/19610.png",
+			"set": [{
+				"type": "16",
+				"name": "存储数量上限",
+				"index": ["eff48"]
+			}, {
+				"type": "16",
+				"name": "存储时间(必须大于0，否则会不加数量)",
+				"index": ["eff58"]
+			}]
+		}]
+	},
+	"xing": {
+		"offset": "592",
+		"key": "倒卖软件的天天押灵车",
+		"qunkey": "Wxk6pclR7nl2BJivINFybK0UymGmsMzZ",
+		"txt": "1就代表第一套星元\n2就代表第二套\n以身体部件的数量为准\n部分星元不是按顺序排列的\n如公孙离是第5套\n妲己女仆是第3套\n改错会显示异常\n更多代码请参考更新日志里的合集",
+		"list": [{
+			"name": "孙尚香-末日机甲",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111-smallskin-6.jpg",
+			"code": "11105"
+		}, {
+			"name": "宫本-地狱之眼",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/130/130-smallskin-5.jpg",
+			"code": "13005"
+		}, {
+			"name": "武则天-海洋之心",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/136/136-smallskin-3.jpg",
+			"code": "13602"
+		}, {
+			"name": "貂蝉-仲夏夜之梦",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/141/141-smallskin-4.jpg",
+			"code": "14103"
+		}, {
+			"name": "孙悟空-地狱火",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167-smallskin-2.jpg",
+			"code": "16701"
+		}, {
+			"name": "孙悟空-零号",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/167/167-smallskin-8.jpg",
+			"code": "16707"
+		}, {
+			"name": "刘备-时之恋人",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/170/170-smallskin-5.jpg",
+			"code": "17004"
+		}, {
+			"name": "瑶-时之祈愿",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/505-smallskin-4.jpg",
+			"code": "50503"
+		}, {
+			"name": "小乔-缤纷独角兽",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/106/106-smallskin-5.jpg",
+			"code": "10604"
+		}, {
+			"name": "妲己-女仆咖啡",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/109/109-smallskin-2.jpg",
+			"code": "10901"
+		}, {
+			"name": "妲己-魅力维加斯",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/109/109-smallskin-3.jpg",
+			"code": "10902"
+		}, {
+			"name": "孙尚香-沉稳之力",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111-smallskin-7.jpg",
+			"code": "11106"
+		}, {
+			"name": "孙尚香-时之恋人",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/111/111-smallskin-8.jpg",
+			"code": "11107"
+		}, {
+			"name": "鲁班-电玩小子",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/112/112-smallskin-4.jpg",
+			"code": "11203"
+		}, {
+			"name": "阿珂-节奏热浪",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/116/116-smallskin-5.jpg",
+			"code": "11604"
+		}, {
+			"name": "扁鹊-化身博士",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/119/119-smallskin-3.jpg",
+			"code": "11902"
+		}, {
+			"name": "吕布-末日机甲",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/123/123-smallskin-4.jpg",
+			"code": "12303"
+		}, {
+			"name": "夏侯惇-乘风破浪",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/126/126-smallskin-3.jpg",
+			"code": "12602"
+		}, {
+			"name": "典韦-蓝屏警告",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/129/129-smallskin-4.jpg",
+			"code": "12903"
+		}, {
+			"name": "李白-千年之狐",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/131-smallskin-3.jpg",
+			"code": "13102",
+			"ts": "2"
+		}, {
+			"name": "李白-敏锐之力",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/131/131-smallskin-5.jpg",
+			"code": "13104",
+			"ts": "2"
+		}, {
+			"name": "狄仁杰-超时空战士",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/133/133-smallskin-4.jpg",
+			"code": "13303"
+		}, {
+			"name": "安琪拉-心灵骇客",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/142/142-smallskin-4.jpg",
+			"code": "14203"
+		}, {
+			"name": "韩信-街头霸王",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/150/150-smallskin-2.jpg",
+			"code": "15001"
+		}, {
+			"name": "王昭君-偶像歌手",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/152/152-smallskin-3.jpg",
+			"code": "15202"
+		}, {
+			"name": "花木兰-青春决赛季",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/154/154-smallskin-5.jpg",
+			"code": "15404"
+		}, {
+			"name": "亚瑟-心灵战警",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/166-smallskin-4.jpg",
+			"code": "16603"
+		},{
+			"name": "李元芳-逐浪之夏",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/173/173-smallskin-4.jpg",
+			"code": "17303"
+		}, {
+			"name": "诸葛亮-黄金分割率",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/190/190-smallskin-3.jpg",
+			"code": "19002"
+		}, {
+			"name": "大乔-猫狗日记",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/191/191-smallskin-4.jpg",
+			"code": "19103"
+		}, {
+			"name": "百里守约-特工魅影",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/196/196-smallskin-3.jpg",
+			"code": "19603"
+		},{
+			"name": "公孙离-无限星赏官",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/199/199-smallskin-4.jpg",
+			"code": "19903"
+		}, {
+			"name": "伽罗-箭雨风息",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/508/508-smallskin-3.jpg",
+			"code": "50802"
+		}, {
+			"name": "孙策-猫狗日记",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/510/510-smallskin-3.jpg",
+			"code": "51002"
+		}]
+	},
+	"type": {
+		"0": {
+			"name": "单机皮肤",
+			"text": "单机全皮肤",
+			"sign": "1D096A90E0408CE6",
+			"address": "1dd6b50"
+		},
+		"1": {
+			"name": "皮肤列表",
+			"text": "皮肤特效、图标、名称等",
+			"sign": "0429000069000000",
+			"address": "13bfd0c"
+		},
+		"2": {
+			"name": "英雄属性",
+			"text": "血量、攻速、可用的技能等",
+			"sign": "1DC8F626F9C96D93",
+			"address": "60e0c"
+		},
+		"3": {
+			"name": "装备属性",
+			"text": "装备价格、属性、技能效果等",
+			"sign": "408E2DFE79B819BF",
+			"address": "1c24af4"
+		},
+		"4": {
+			"name": "铭文属性",
+			"text": "铭文属性",
+			"sign": "5F3C0ACEC08F706F",
+			"address": "105216c"
+		},
+		"5": {
+			"name": "技能列表",
+			"sign": "6AA96715120CE2D5",
+			"text": "蓝耗、CD时间、范围等",
+			"address": "15c0d8"
+		},
+		"6": {
+			"name": "技能效果",
+			"text": "技能伤害、效果被动等",
+			"sign": "2DBF5D26EA311603",
+			"address": "3a88d0"
+		},
+		"7": {
+			"name": "防御塔属性",
+			"text": "防御塔水晶血量 伤害等",
+			"sign": "C8FE0000F5C56A0064074A2E04000000",
+			"address": "37cbdc"
+		},
+		"8": {
+			"name": "模式属性",
+			"text": "回城技能、恢复技能、开局金币经验等",
+			"sign": "86B2ACDCA9FA8236",
+			"address": "87b3c"
+		},
+		"08": {
+			"name": "模式属性2",
+			"text": "冷却上限、韧性等",
+			"sign": "EAD45C961E391F6B",
+			"address": "13c4c34"
+		},
+		"9": {
+			"name": "兵线属性(1v1)",
+			"text": "出兵时间之类的",
+			"sign": "AB0F00000700000000000000983A000078690000",
+			"address": "ad58f8"
+		},
+		"10": {
+			"name": "复活时间",
+			"text": "不同模式的复活时间",
+			"sign": "90B2080000000000204E0000983A0000983A00001027000010270000",
+			"address": "ee42ac"
+		},
+		"11": {
+			"name": "技能位置",
+			"text": "召唤师技能代码",
+			"sign": "49C7609241D457635A50E7AAE89854F5",
+			"address": "29ced64"
+		},
+		"12": {
+			"name": "上限设置",
+			"text": "冷却上限等",
+			"sign": "78A71DB9C2BD58A2",
+			"address": "11d7454"
+		},
+		"13": {
+			"name": "装备技能",
+			"text": "装备英雄被动技能等",
+			"sign": "B48F2A42A9068C40",
+			"address": "131cd84"
+		},
+		"14": {
+			"name": "5v5兵线属性",
+			"text": "出兵时间等5.25号的基址",
+			"sign": "1709000001020000",
+			"address": "a6daf0"
+		},
+		"15": {
+			"name": "装备技能",
+			"text": "装备主动技能CD等",
+			"sign": "8263010000000000089B08E5920BB790",
+			"address": "24d2d0"
+		},
+		"16": {
+			"name": "技能存储器",
+			"text": "英雄主动技能存储时间及数量",
+			"sign": "399165E1456FC20A",
+			"address": "fbd5c"
+		},
+		"17": {
+			"name": "野怪属性",
+			"text": "一些野怪之类的东西",
+			"sign": "AB8EA8C3BBB8496B",
+			"address": "2a0240"
+		},
+		"dan": {
+			"name": "单机模式",
+			"text": "单机",
+			"sign": "25CE7C1C637DE77F",
+			"address": "24ef00c"
+		},
+		"dan2": {
+			"name": "单机模式入口",
+			"text": "单机",
+			"sign": "62120100F102000000000000F9020000C01D0100",
+			"address": "4610"
+		}
+	}
+}
