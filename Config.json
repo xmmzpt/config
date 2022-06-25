@@ -168,21 +168,21 @@
                         "sign":"1DC8F626r;F9C96D93r",
                         "code":"105",
                         "offset":"864",
-                        "maxCode":"888",
+                        "maxCode":"999",
                         "py":"16"
                     },
                     "skills":{
                         "sign":"04290000r;00000000r;869F0665r;A7F65397r",
                         "code":"10500",
                         "offset":"632",
-                        "maxCode":"88800",
+                        "maxCode":"99900",
                         "py":"0"
                     },
                     "skills_xg":{
                         "sign":"D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
                         "code":"106000",
                         "offset":"960",
-                        "maxCode":"888000",
+                        "maxCode":"999000",
                         "py":"832"
                     }
                 },
