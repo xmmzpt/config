@@ -48,7 +48,7 @@
 			"skill": {
 				"type": "5",
 				"address": "160968",
-				"offset": "640",
+				"offset": "632",
 				"maxCode": "999",
 				"list": "/Diy/skill.json"
 			},
