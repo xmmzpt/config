@@ -162,7 +162,7 @@
                     "img":"",
                     "url":"mod1"
                 }],
-                "tshero":"/Config/tshero.json",//特殊英雄
+                "tshero":"/Ver5/fty/config/tshero.json",//特殊英雄
                 "sign":{
                     "hero":{
                         "sign":"1DC8F626r;F9C96D93r",
@@ -181,7 +181,8 @@
                 },
                 "list":{
                     "config":"/Ver5/fty/config/config.json",
-                    "hero":"/Ver5/fty/config/hero.json"
+                    "hero":"/Ver5/fty/config/hero.json",
+                    "skills":"/Ver5/fty/config/skills.json"
                 }
         }
     },
