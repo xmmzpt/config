@@ -197,7 +197,8 @@
                     "config":"/Ver5/fty/config/config.json",
                     "hero":"/Ver5/fty/config/hero.json",
                     "skills":"/Ver5/fty/config/skills.json",
-                    "skills_xg":"/Ver5/fty/config/skills_xg.json"
+                    "skills_xg":"/Ver5/fty/config/skills_xg.json",
+                    "item":"/Ver5/fty/config/item.json"
                 }
         }
     },
