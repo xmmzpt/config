@@ -165,11 +165,8 @@
                     "url":"mod1"
                 }],
                 "plan":[{
-                        "name":"默认修改[2022-06-17更新]",
+                        "name":"辅助血量全改6666，模型大小改200[2022-06-17更新]",
                         "url":"/Ver5/fty/plan/plan1.json"
-                    },{
-                        "name":"全皮肤含星传说[2022-06-17更新]",
-                        "url":"/Config/csf.json"
                     }],
                 "tshero":"/Ver5/fty/config/tshero.json",//特殊英雄
                 "ysming":"/Ver5/fty/config/ysming.json",//铭文列表
