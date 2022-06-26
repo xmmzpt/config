@@ -94,6 +94,33 @@
                 "name":"经典功能",
                 "new":"新",
                 "img":"",
+                "type":"win",
+                "url":"db",
+                "tan":"",
+                "copy":""
+            },
+            {
+                "name":"皮肤编辑器",
+                "new":"新",
+                "img":"",
+                "type":"win",
+                "url":"pifu",
+                "tan":"",
+                "copy":""
+            },
+            {
+                "name":"工厂模式",
+                "new":"新",
+                "img":"",
+                "type":"url",
+                "url":"fty",
+                "tan":"",
+                "copy":""
+            },
+            {
+                "name":"交流群",
+                "new":"新",
+                "img":"",
                 "type":"url",
                 "tan":"",
                 "copy":""
