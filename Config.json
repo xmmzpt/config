@@ -184,6 +184,13 @@
                         "offset":"960",
                         "maxCode":"999000",
                         "py":"832"
+                    },
+                    "item":{
+                        "sign":"D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
+                        "code":"1111",
+                        "offset":"528",
+                        "maxCode":"9999",
+                        "py":"0"
                     }
                 },
                 "list":{
