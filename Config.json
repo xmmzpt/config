@@ -163,6 +163,7 @@
                     "url":"mod1"
                 }],
                 "tshero":"/Ver5/fty/config/tshero.json",//特殊英雄
+                "ysming":"/Ver5/fty/config/ysming.json",//铭文列表
                 "sign":{
                     "hero":{
                         "sign":"1DC8F626r;F9C96D93r",
@@ -206,8 +207,7 @@
                     "skills":"/Ver5/fty/config/skills.json",
                     "skills_xg":"/Ver5/fty/config/skills_xg.json",
                     "item":"/Ver5/fty/config/item.json",
-                    "ming":"/Ver5/fty/config/ming.json",
-                    "ysming":"/Ver5/fty/config/ysming.json"
+                    "ming":"/Ver5/fty/config/ming.json"
                 }
         }
     },
