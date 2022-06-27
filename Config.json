@@ -152,6 +152,7 @@
             "web":""
         },
         "pifu":{
+            "vip":"2",
             "fangan":[{
                         "name":"预置全皮肤方案[2022-06-17更新]",
                         "url":"/Config/csf2.json"
