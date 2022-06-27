@@ -34,6 +34,8 @@
 		}
 	},
     "kele":{
+        "qun_key":"",
+        "bang_url":"",
         "ver":{
             "ver":"1",
             "verTxet":"更新公告",
