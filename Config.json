@@ -37,7 +37,7 @@
         "qun_key":"",
         "bang_url":"https://app.kl66.cn",
         "uptime":"2022-06-28",
-        "key":"",//通用工厂密匙
+        "key":"KeleFtyWW16DnWqsx",//通用工厂密匙
         "key_time":"",//工厂密匙可以使用到的日期
         "qun":"",//交流群key
         "wen_url":"",//常见问题
@@ -50,12 +50,7 @@
             "verTxet":"更新公告",
             "verUrl":"新版本链接"
         },
-        "key":{
-            "key":"KeleFtyWW16DnWqsx",
-            "keyText":"XXXX",
-            "keyUrl":"https://www.wenjuan.com/s/UZBZJvigYd/",
-            "scores":"90"
-        },
+        "list":["/Ver5/config/config.json"],
         "lunbo":[{
 			"name": "6月18日18:00直播",
 			"biao": "今日大量发放邀请码",
