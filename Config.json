@@ -278,6 +278,21 @@
                     "item":"/Ver5/fty/config/item.json",
                     "ming":"/Ver5/fty/config/ming.json"
                 }
+        },
+        "offset":{
+            "list":["0","1"],
+            "0":{
+                "name": "单机皮肤",
+			    "text": "单机全皮肤",
+			    "sign": "6900000001000000C87E8CF4211C0F9F",
+			    "address": "1dd6b60"
+            },
+            "1":{
+                "name": "皮肤列表",
+			    "text": "皮肤特效、图标、名称等",
+			    "sign": "0429000069000000",
+			    "address": "13bfd0c"
+            }
         }
     },
 	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
