@@ -37,6 +37,12 @@
         "qun_key":"",
         "bang_url":"https://app.kl66.cn",
         "uptime":"2022-06-28",
+        "key":"",//通用工厂密匙
+        "key_time":"",//工厂密匙可以使用到的日期
+        "qun":"",//交流群key
+        "wen_url":"",//常见问题
+        "log_url":"",//更新日志
+        "app_url":"",//关于助手
         "QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
 	    "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
         "ver":{
