@@ -49,7 +49,7 @@
             "ver":"1",
             "verName":"5.0",
             "must":"true",
-            "verType":"html",
+            "verType":"web",
             "verTxet":"/Ver5/config/app.html",
             "verUrl":"新版本链接"
         },
