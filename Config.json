@@ -132,6 +132,25 @@
                 "copy":""
             }
         ],
+        "tool":[
+            {
+                "name":"可乐脚本教程",
+                "new":"新",
+                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type":"url",
+                "url":"https://note.youdao.com/s/OCuxaFk5",
+                "tan":"这个是可乐助手专属脚本的格式规范，可以搭配可乐助手脚本编辑工具使用",
+                "copy":""
+            },{
+                "name":"可乐脚本编辑器",
+                "new":"新",
+                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type":"url",
+                "url":"https://xmmz.lanzoux.com/iTDVysrvc1e",
+                "tan":"",
+                "copy":""
+            }
+        ],
         "gonggao":{
             "top":{
                 "type1":"html",
