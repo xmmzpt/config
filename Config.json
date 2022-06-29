@@ -1,38 +1,5 @@
 {
 	"code": 200,
-	"config": {
-		"gitee": {
-			"type": "1",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b",
-			"user": "user"
-		},
-		"功能仓库": {
-			"type": "1",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
-		},
-		"备用": {
-			"type": "0",
-			"haed": "https://xmmz1.coding.net/p/game/d/game/git/raw/master",
-			"foot": "?download=false"
-		},
-		"github": {
-			"type": "0",
-			"haed": "https://raw.githubusercontent.com/xmmzpt/db_bak/master",
-			"foot": "",
-			"user": "user"
-		},
-		"loca": {
-			"type": "-1",
-			"user": "user"
-		},
-		"user": {
-			"type": "2",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
-		}
-	},
     "kele":{
         "qun_key":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.kl66.cn",
@@ -53,7 +20,7 @@
             "must":"true",
             "verType":"web",
             "verTxet":"/Ver5/config/app.html",
-            "verUrl":"新版本链接"
+            "verUrl":"https://pro-file.xiaoheiban.cn/xwz/0893ab71-a3ea-4d16-9429-4ee58ece18ca.apk"
         },
         "list":["/Ver5/config/config.json"],
         "lunbo":[{
@@ -403,19 +370,39 @@
             }
         }
     },
-	"WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
-	"QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
-	"PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
-	"Pwdtext": "王者上号和谐，不能用就不用，再来骚扰我就全部拉黑，没义务给你修复",
-	"验证群key": "7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
-	"付费工厂": "https://fa.kl66.cn/?id=5",
-	"付费地址": "https://fa.kl66.cn/?id=2",
-	"初始化提醒": "没有ROOT可以用框架或虚拟机，不看教程建议不要玩了",
-	"资源中心": "https://app.kl66.cn/",
-	"资源说明": "使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
-	"教程大全": "https://app.kl66.cn/wiki/kele/log/#/WIKI",
-	"绑定教程": "https://app.kl66.cn/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89",
-	"基础教程": "https://mp.weixin.qq.com/s/up7vFFh0_rSq10hd3BKecA",
+	"config": {
+		"gitee": {
+			"type": "1",
+			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
+			"foot": "?access_token=5347dc45d0622feda6544191c98e324b",
+			"user": "user"
+		},
+		"功能仓库": {
+			"type": "1",
+			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
+			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+		},
+		"备用": {
+			"type": "0",
+			"haed": "https://xmmz1.coding.net/p/game/d/game/git/raw/master",
+			"foot": "?download=false"
+		},
+		"github": {
+			"type": "0",
+			"haed": "https://raw.githubusercontent.com/xmmzpt/db_bak/master",
+			"foot": "",
+			"user": "user"
+		},
+		"loca": {
+			"type": "-1",
+			"user": "user"
+		},
+		"user": {
+			"type": "2",
+			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele/contents",
+			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+		}
+	},
 	"game": {
 		"list": ["王者荣耀", "王者荣耀体验服", "lol", "和平精英"],
 		"天天酷跑": {
