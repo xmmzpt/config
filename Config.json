@@ -300,31 +300,31 @@
 			    "name": "装备属性",
 			    "text": "装备价格、属性、技能效果等",
 			    "sign": "57040000r;00000000r;59E9E52Br;108675A0r;00010101r",
-			    "address": "60e0c"
+			    "address": "28db0ac"
             },
 		    "4": {
 			    "name": "铭文属性",
 			    "text": "铭文属性",
 			    "sign": "A1230000r;00000000r;A43B3766r;76AD6293r",
-			    "address": "60e0c"
+			    "address": "20c5770"
 		    },
 		    "5": {
 			    "name": "技能列表",
 			    "text": "蓝耗、CD时间、范围等",
 			    "sign": "04290000r;00000000r;869F0665r;A7F65397r",
-			    "address": "60e0c"
+			    "address": "f6284"
             },
 		    "6": {
 			    "name": "技能效果",
 			    "text": "技能伤害、效果被动等",
 			    "sign": "D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
-			    "address": "60e0c"
+			    "address": "5f2584"
             },
 		    "7": {
 			    "name": "防御塔属性",
 			    "text": "防御塔水晶血量 伤害等",
 			    "sign": "C8FE0000F5C56A0064074A2E04000000",
-			    "address": "37cbdc"
+			    "address": "522614"
             },
 		    "8": {
 			    "name": "模式属性",
