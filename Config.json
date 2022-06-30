@@ -212,7 +212,7 @@
                     }],
                 "tshero":"/Ver5/fty/config/tshero.json",//特殊英雄
                 "ysming":"/Ver5/fty/config/ysming.json",//铭文列表
-                "tsitem":"/Ver5/fty/config/item.json",//特殊装备
+                "tsitem":"/Ver5/fty/config/tsitem.json",//特殊装备
                 "sign":{
                     "skin":{
                     "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
