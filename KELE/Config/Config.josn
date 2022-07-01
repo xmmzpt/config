@@ -5,10 +5,10 @@
 	"config": {
 		"name": "可乐助手4.0",
 		"tzpy": "32",
-		"ver": "31",
+		"ver": "33",
 		"logo": "http://q1.qlogo.cn/g?b=qq&nk=3026066056&s=100",
-		"verText": "1.修复部分框架提示非64位的bug \n2.新增功能使用统计记录\n更详细的更新内容请看软件首页更新日志  \n\n交流群:8018708\n不要在框架里更新\n不要在框架里更新\n不要在框架里更新",
-		"verUrl": "https://pro-file.xiaoheiban.cn/xwz/0893ab71-a3ea-4d16-9429-4ee58ece18ca.apk",
+		"verText": "全新版本，重头开始，更新详情请看QQ频道公告",
+		"verUrl": "https://hk.kstore.space/download/2746/kele5.0.apk",
 		"lunboTime": "4000",
 		"key": "KeleFtygp7EMLU1",
 		"keyUrl": "https://www.wenjuan.com/s/UZBZJvigYd/",
