@@ -166,24 +166,7 @@
                     },{
                         "name":"全皮肤含星传说[2022-06-17更新]",
                         "url":"/Ver5/pifu/plan/plan2.json"
-                    }],
-            "skin":{
-                "sign":"69000000r;01000000r;C87E8CF4r;211C0F9Fr",
-                "offset":"32",
-                "from":"8",
-                "to":"24",
-                "maxCode":"550",
-                "py":"0"
-            },
-            "skin_new":{
-                "sign":"0429000069000000",
-                "offset":"784",
-                "xing":"592",
-                "maxCode":"880",
-                "py":"0",
-                "url":"/Ver5/pifu/config/skin.json",
-                "xing_url":"/Ver5/pifu/config/xing.json"
-            } 
+                    }]
         },
         "fty":{
             "vip":"2",
@@ -230,8 +213,8 @@
                     "xing":"592",
                     "maxCode":"880",
                     "py":"0",
-                    "url":"/Config/pifu.json",
-                    "xing_url":"/Config/xing.json"
+                    "url":"/Ver5/pifu/config/skin.json",
+                    "xing_url":"/Ver5/pifu/config/xing.json"
                     }, 
                     "hero":{
                         "sign":"1DC8F626r;F9C96D93r",
