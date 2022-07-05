@@ -261,6 +261,13 @@
                         "offset":"320",
                         "maxCode":"9999",
                         "py":"1280"
+                    },
+                    "zhao":{
+                        "sign":"B27F16B8r;487B1398r",
+                        "code":"1",
+                        "offset":"40",
+                        "maxCode":"1",
+                        "py":"16"
                     }
                 },
                 "list":{
@@ -270,11 +277,12 @@
                     "skills_xg":"/Ver5/fty/config/skills_xg.json",
                     "item":"/Ver5/fty/config/item.json",
                     "ming":"/Ver5/fty/config/ming.json",
+                    "zhao":"/Ver5/fty/config/zhao.json",
                     "skills_name":"/Ver5/fty/config/skills_name.json"
                 }
         },
         "offset":{
-            "list":["0","1","2","3","4","5","6","7","9"],
+            "list":["0","1","2","3","4","5","6","7","9","11"],
             "0":{
                 "name": "单机皮肤",
 			    "text": "单机全皮肤",
@@ -350,8 +358,8 @@
 		    "11": {
 			    "name": "召唤师技能位置",
 			    "text": "召唤师技能代码的位置",
-			    "sign": "1DC8F626r;F9C96D93r",
-			    "address": "60e0c"
+			    "sign": "B27F16B8r;487B1398r",
+			    "address": "28d8000"
             },
 		    "13": {
 			    "name": "装备和被动技能等",
