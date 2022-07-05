@@ -269,7 +269,8 @@
                     "skills":"/Ver5/fty/config/skills.json",
                     "skills_xg":"/Ver5/fty/config/skills_xg.json",
                     "item":"/Ver5/fty/config/item.json",
-                    "ming":"/Ver5/fty/config/ming.json"
+                    "ming":"/Ver5/fty/config/ming.json",
+                    "skills_name":"/Ver5/fty/config/skills_name.json"
                 }
         },
         "offset":{
