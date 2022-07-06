@@ -20,7 +20,9 @@
             "must":"true",
             "verType":"web",
             "verTxet":"/Ver5/config/app.html",
-            "verUrl":"https://hk.kstore.space/download/2746/kele.apk"
+            "verUrl":"https://app.kl66.cn/app/kele.apk",
+            "verUrl2":"https://hk.kstore.space/download/2746/kele.apk"
+            
         },
         "list":["/Ver5/config/config.json","/Ver5/config/wuhuhu.json"],
         "lunbo":[{
