@@ -202,6 +202,16 @@
                     "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
                     "url":"sou",
                     "vip":"3"
+                },{
+                    "name":"模式属性修改",
+                    "img":"https://game.gtimg.cn/images/yxzj/img201606/summoner/80115.jpg",
+                    "url":"mod1",
+                    "vip":"3"
+                },{
+                    "name":"模式上限修改",
+                    "img":"https://game.gtimg.cn/images/yxzj/img201606/summoner/80104.jpg",
+                    "url":"mod2",
+                    "vip":"3"
                 }],
                 "plan":[{
                         "name":"辅助血量全改6666，模型大小改200[2022-06-17更新]",
@@ -270,6 +280,20 @@
                         "offset":"40",
                         "maxCode":"1",
                         "py":"16"
+                    },
+                    "mod":{
+                        "sign":"214E0000r;00000000r;E2BD2E50r;360DDB3Br",
+                        "code":"20001",
+                        "offset":"952",
+                        "maxCode":"30000",
+                        "py":"0"
+                    },
+                    "mod2":{
+                        "sign":"F72E3AB9r;31E2C063r",
+                        "code":"2304",
+                        "offset":"108",
+                        "maxCode":"2500",
+                        "py":"16"
                     }
                 },
                 "list":{
@@ -280,11 +304,15 @@
                     "item":"/Ver5/fty/config/item.json",
                     "ming":"/Ver5/fty/config/ming.json",
                     "zhao":"/Ver5/fty/config/zhao.json",
+                    "mod":"/Ver5/fty/config/mod.json",
+                    "mod_name":"/Ver5/fty/config/mod_name.json",
+                    "mod2":"/Ver5/fty/config/mod2.json",
+                    "mod2_name":"/Ver5/fty/config/mod2_name.json",
                     "skills_name":"/Ver5/fty/config/skills_name.json"
                 }
         },
         "offset":{
-            "list":["0","1","2","3","4","5","6","7","9","11"],
+            "list":["0","1","2","3","4","5","6","7","8","9","11"],
             "0":{
                 "name": "单机皮肤",
 			    "text": "单机全皮肤",
@@ -336,8 +364,8 @@
 		    "8": {
 			    "name": "模式属性",
 			    "text": "回城技能、恢复技能、开局金币经验等",
-			    "sign": "1DC8F626r;F9C96D93r",
-			    "address": "60e0c"
+			    "sign": "214E0000r;00000000r;E2BD2E50r;360DDB3Br",
+			    "address": "ca7c"
             },
 		    "08": {
 			    "name": "模式属性2",
