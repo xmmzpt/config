@@ -3,7 +3,7 @@
     "kele":{
         "qun_key":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.kl66.cn/?id=2",
-        "uptime":"2022-07-03",
+        "uptime":"2022-07-10",
         "key":"KeleFtygp7EMLU1",//通用工厂密匙
         "key_time":"1659283140",//工厂密匙可以使用到的日期
         "qun":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",//交流群key
@@ -13,10 +13,10 @@
         "QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
 	    "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
         "ver":{
-            "ver":"6",
-            "verName":"5.0.3",
+            "ver":"7",
+            "verName":"5.0.4",
             "verSize":"4.9M",
-            "verTime":"2022-07-06",
+            "verTime":"2022-07-10",
             "must":"true",
             "verType":"web",
             "verTxet":"/Ver5/config/app.html",
