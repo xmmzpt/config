@@ -295,6 +295,20 @@
                         "offset":"108",
                         "maxCode":"2500",
                         "py":"16"
+                    },
+                    "ta":{
+                        "sign":"01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
+                        "code":"1",
+                        "offset":"232",
+                        "maxCode":"1",
+                        "py":"0"
+                    },
+                    "bei":{
+                        "sign":"01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
+                        "code":"1",
+                        "offset":"232",
+                        "maxCode":"1",
+                        "py":"0"
                     }
                 },
                 "list":{
