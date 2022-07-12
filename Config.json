@@ -468,8 +468,13 @@
 			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
 		},
 		"user2": {
-			"type": "2",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele/contents",
+			"type": "5",
+			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele2/contents",
+			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+		},
+		"user3": {
+			"type": "6",
+			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele3/contents",
 			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
 		}
 	},
