@@ -319,11 +319,11 @@
                         "py":"0"
                     },
                     "bei":{
-                        "sign":"01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
-                        "code":"1",
-                        "offset":"232",
-                        "maxCode":"1",
-                        "py":"0"
+                        "sign":"92D12669r;7B386A71r",
+                        "code":"10700",
+                        "offset":"176",
+                        "maxCode":"4",
+                        "py":"16"
                     }
                 },
                 "list":{
@@ -338,11 +338,15 @@
                     "mod_name":"/Ver5/fty/config/mod_name.json",
                     "mod2":"/Ver5/fty/config/mod2.json",
                     "mod2_name":"/Ver5/fty/config/mod2_name.json",
-                    "skills_name":"/Ver5/fty/config/skills_name.json"
+                    "skills_name":"/Ver5/fty/config/skills_name.json",
+                    "bei_name":"/Ver5/fty/config/skills_name.json",
+                    "bei":"/Ver5/fty/config/bei.json",
+                    "ta":"/Ver5/fty/config/ta.json"
+                    
                 }
         },
         "offset":{
-            "list":["0","1","2","3","4","5","6","7","8","08","9","11"],
+            "list":["0","1","2","3","4","5","6","7","8","08","9","11","13"],
             "0":{
                 "name": "单机皮肤",
 			    "text": "单机全皮肤",
@@ -423,9 +427,9 @@
             },
 		    "13": {
 			    "name": "装备和被动技能等",
-			    "text": "装备主动技能和部分英雄被动技能CD等",
-			    "sign": "1DC8F626r;F9C96D93r",
-			    "address": "60e0c"
+			    "text": "装备和部分英雄被动技能CD等",
+			    "sign": "92D12669r;7B386A71r",
+			    "address": "20327ac"
             },
 		    "16": {
 			    "name": "技能存储器",
