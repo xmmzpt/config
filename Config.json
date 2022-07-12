@@ -440,7 +440,9 @@
 			"type": "1",
 			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
 			"foot": "?access_token=5347dc45d0622feda6544191c98e324b",
-			"user": "user"
+			"user": "user",
+            "user2": "user2",
+            "user3": "user3"
 		},
 		"功能仓库": {
 			"type": "1",
@@ -456,11 +458,15 @@
 			"type": "0",
 			"haed": "https://raw.githubusercontent.com/xmmzpt/db_bak/master",
 			"foot": "",
-			"user": "user"
+			"user": "user",
+            "user2": "user2",
+            "user3": "user3"
 		},
 		"loca": {
 			"type": "-1",
-			"user": "user"
+			"user": "user",
+            "user2": "user2",
+            "user3": "user3"
 		},
 		"user": {
 			"type": "2",
