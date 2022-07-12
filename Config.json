@@ -341,8 +341,8 @@
                     "skills_name":"/Ver5/fty/config/skills_name.json",
                     "bei_name":"/Ver5/fty/config/skills_name.json",
                     "bei":"/Ver5/fty/config/bei.json",
-                    "ta":"/Ver5/fty/config/ta.json"
-                    
+                    "ta":"/Ver5/fty/config/ta.json",
+                    "ta_name":"/Ver5/fty/config/ta_name.json"
                 }
         },
         "offset":{
