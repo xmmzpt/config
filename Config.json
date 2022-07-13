@@ -156,18 +156,11 @@
         },
         "pifu":{
             "vip":"2",
-            "fangan":[{
-                        "name":"预置全皮肤方案[2022-06-17更新]",
-                        "url":"/Config/csf2.json"
-                    },{
-                        "name":"全皮肤含星传说[2022-06-17更新]",
-                        "url":"/Config/csf.json"
-                    }],
             "plan":[{
-                        "name":"预置全皮肤方案[2022-06-17更新]",
+                        "name":"预置全皮肤方案[2022-07-06更新]",
                         "url":"/Ver5/pifu/plan/plan1.json"
                     },{
-                        "name":"全皮肤含星传说[2022-06-17更新]",
+                        "name":"全皮肤含星传说[2022-07-06更新]",
                         "url":"/Ver5/pifu/plan/plan2.json"
                     }]
         },
@@ -230,7 +223,7 @@
                     "vip":"3"
                 }],
                 "plan":[{
-                        "name":"辅助血量全改6666，模型大小改200[2022-06-17更新]",
+                        "name":"无限火力方案[2022-07-13更新]",
                         "url":"/Ver5/fty/plan/plan1.json"
                     }],
                 "tshero":"/Ver5/fty/config/tshero.json",//特殊英雄
