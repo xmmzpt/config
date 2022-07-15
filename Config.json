@@ -441,7 +441,7 @@
 			"user": "user",
             "user2": "user2",
             "user3": "user3",
-			"api": "https://api.eeenn.cn/",
+			"api": "http://api.eeenn.cn/public/?s=",
 			"key": "5347dc45d0622feda6544191c98e324"
 		},
 		"功能仓库": {
