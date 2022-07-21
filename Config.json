@@ -4,7 +4,7 @@
         "qun_key":"",
         "qun_key2":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.kl66.cn/?id=2",
-        "uptime":"2022-07-20",
+        "uptime":"2022-07-21",
         "key":"KeleFtygp7EMLU1",//通用工厂密匙
         "key_time":"1659283140",//工厂密匙可以使用到的日期
         "qun":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",//交流群key
@@ -28,13 +28,13 @@
         },
         "list":["/Ver5/config/config.json","/Ver5/config/wuhuhu.json","/Ver5/config/1136117475.json"],
         "jiao":"/Ver5/config/jiao.html",
-        "lunbo":[//{
-			//"name": "6月18日18:00直播",
-			//"biao": "今日大量发放邀请码",
-			//"type": "url",
-			//"url": "https://live.bilibili.com/23395197",
-			//"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
-		//},
+        "lunbo":[{
+			"name": "7月21日18:00直播",
+			"biao": "今日抽奖积分、邀请码、会员",
+			"type": "url",
+			"url": "https://live.bilibili.com/23395197",
+			"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
+		},
         {
 			"name": "可乐官网",
 			"biao": "教程与资源下载",
@@ -160,10 +160,10 @@
         "pifu":{
             "vip":"2",
             "plan":[{
-                        "name":"预置全皮肤方案[2022-07-15更新]",
+                        "name":"预置全皮肤方案[2022-07-21更新]",
                         "url":"/Ver5/pifu/plan/plan1.json"
                     },{
-                        "name":"全皮肤含星传说[2022-07-15更新]",
+                        "name":"全皮肤含星传说[2022-07-21更新]",
                         "url":"/Ver5/pifu/plan/plan2.json"
                     }]
         },
