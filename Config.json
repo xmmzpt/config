@@ -4,7 +4,7 @@
         "qun_key":"",
         "qun_key2":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.kl66.cn/?id=2",
-        "uptime":"2022-07-21",
+        "uptime":"2022-07-23",
         "key":"KeleFtygp7EMLU1",//通用工厂密匙
         "key_time":"1659283140",//工厂密匙可以使用到的日期
         "qun":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",//交流群key
@@ -14,10 +14,10 @@
         "QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
 	    "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
         "ver":{
-            "ver":"10",
-            "verName":"5.1.1",
+            "ver":"11",
+            "verName":"5.1.2",
             "verSize":"16.0M",
-            "verTime":"2022-07-20",
+            "verTime":"2022-07-23",
             "must":"true",
             "verType":"web",
             "verTxet":"/Ver5/config/app.html",
@@ -28,13 +28,14 @@
         },
         "list":["/Ver5/config/config.json","/Ver5/config/wuhuhu.json","/Ver5/config/1136117475.json"],
         "jiao":"/Ver5/config/jiao.html",
-        "lunbo":[{
+        "lunbo2":[{
 			"name": "7月21日18:00直播",
 			"biao": "今日抽奖积分、邀请码、会员",
 			"type": "url",
 			"url": "https://live.bilibili.com/23395197",
 			"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
-		},
+		}],
+        "lunbo":[
         {
 			"name": "可乐官网",
 			"biao": "教程与资源下载",
