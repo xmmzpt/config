@@ -507,8 +507,8 @@
 			"user": "user",
             "user2": "user2",
             "user3": "user3",
-            "api2": "http://api.shenshu234.xyz/public/?s=",
-			"api": "http://api2.eeenn.cn/public/?s=",
+            "api": "http://api.shenshu234.xyz/public/?s=",
+			"api2": "http://api2.eeenn.cn/public/?s=",
 			"key": "5347dc45d0622feda6544191c98e324"
 		},
 		"功能仓库": {
