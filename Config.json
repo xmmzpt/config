@@ -496,10 +496,7 @@
                 "type":"vip4",
                 "jifen":"2500",
                 "vip":"2"
-            }
-        ],
-        "shang2":[
-            {   
+            },{   
                 "id":"6",
                 "name":"八强队伍1",
                 "img":"xiaolian.png",
@@ -573,6 +570,9 @@
                 "jifen":"0",
                 "vip":"0"
             }
+        ],
+        "shang2":[
+            
             ]
     },
 	"config": {
