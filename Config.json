@@ -78,7 +78,7 @@
         "menu":[
             {
                 "name":"经典功能",
-                "new":"新增秒赢",
+                "new":"全皮肤更新",
                 "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
                 "type":"win",
                 "url":"db",
@@ -86,7 +86,7 @@
                 "copy":""
             },{
                 "name":"皮肤编辑器",
-                "new":"新",
+                "new":"适配孙尚香",
                 "img":"https://game.gtimg.cn/images/yxzj/img201606/heroimg/136/136-smallskin-4.jpg",
                 "type":"win",
                 "url":"pifu",
@@ -176,10 +176,10 @@
         "pifu":{
             "vip":"2",
             "plan":[{
-                        "name":"预置全皮肤方案[2022-07-21更新]",
+                        "name":"预置全皮肤方案[2022-08-04更新]",
                         "url":"/Ver5/pifu/plan/plan1.json"
                     },{
-                        "name":"全皮肤含星传说[2022-07-21更新]",
+                        "name":"全皮肤含星传说[2022-08-04更新]",
                         "url":"/Ver5/pifu/plan/plan2.json"
                     }]
         },
