@@ -497,6 +497,17 @@
                 "jifen":"2500",
                 "vip":"2"
             },{   
+                "id":"14",
+                "name":"领取竞猜奖励",
+                "img":"awards_integral.png",
+                "text":"领取竞猜的奖励,领取时自动计算应该获得的积分",
+                "type":"",
+                "jifen":"0",
+                "vip":"0"
+            }
+        ],
+        "shang2":[
+            {   
                 "id":"6",
                 "name":"晚安",
                 "img":"xiaolian.png",
@@ -561,18 +572,7 @@
                 "type":"",
                 "jifen":"50",
                 "vip":"0"
-            },{   
-                "id":"14",
-                "name":"领取竞猜奖励",
-                "img":"awards_integral.png",
-                "text":"领取竞猜的奖励,领取时自动计算应该获得的积分",
-                "type":"",
-                "jifen":"0",
-                "vip":"0"
             }
-        ],
-        "shang2":[
-            
             ]
     },
 	"config": {
