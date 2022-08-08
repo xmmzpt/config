@@ -32,6 +32,12 @@
         "list":["/Ver5/config/config.json","/Ver5/config/wuhuhu.json","/Ver5/config/1136117475.json"],
         "jiao":"/Ver5/config/jiao.html",
         "lunbo2":[{
+			"name": "第二届可乐杯开始报名了",
+			"biao": "皮肤、积分、会员等你来拿",
+			"type": "url",
+			"url": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W86SdQ&contentID=17ior&businessType=2&from=181174&shareSource=5&biz=ka",
+			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/503/503-bigskin-5.jpg"
+		},{
 			"name": "7月21日18:00直播",
 			"biao": "今日抽奖积分、邀请码、会员",
 			"type": "url",
@@ -39,13 +45,7 @@
 			"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
 		}],
         "lunbo":[
-            {
-			"name": "第二届可乐杯开始报名了",
-			"biao": "皮肤、积分、会员等你来拿",
-			"type": "url",
-			"url": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W86SdQ&contentID=17ior&businessType=2&from=181174&shareSource=5&biz=ka",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/503/503-bigskin-5.jpg"
-		},
+            
         {
 			"name": "可乐官网",
 			"biao": "教程与资源下载",
@@ -117,6 +117,14 @@
                 "img":"https://s4.ax1x.com/2022/02/18/HoyRW8.jpg",
                 "type":"win",
                 "url":"zhanli",
+                "tan":"",
+                "copy":""
+            }, {
+                "name":"资源包引入",
+                "new":"新",
+                "img":"https://s4.ax1x.com/2022/02/18/HoyRW8.jpg",
+                "type":"win",
+                "url":"in",
                 "tan":"",
                 "copy":""
             },{
