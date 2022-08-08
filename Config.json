@@ -13,6 +13,8 @@
         "app_url":"https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4Q5LF&appChannel=share&contentID=VJ53&businessType=2&from=181174&shareSource=5&biz=ka",//关于助手
         "QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
 	    "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
+        "in_url":"/xxx.html",
+        "in_text":"使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
         "ver":{
             "ver":"16",
             "verName":"5.1.5",
