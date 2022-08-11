@@ -47,6 +47,12 @@
         "lunbo":[
             
         {
+			"name": "王者代练",
+			"biao": "可乐杯冠军队伍接单代练",
+			"type": "html",
+			"url": "/Ver5/html/dl/index.html",
+			"img": "https://s1.ax1x.com/2022/08/11/v8vVxA.jpg"
+		},{
 			"name": "可乐官网",
 			"biao": "教程与资源下载",
 			"type": "url",
