@@ -537,6 +537,14 @@
                 "type":"",
                 "jifen":"0",
                 "vip":"0"
+            },{   
+                "id":"16",
+                "name":"解绑QQ(5.18及以上版本可以使用)",
+                "img":"awards_integral.png",
+                "text":"解绑后你可以在交流群使用任意QQ进行绑定",
+                "type":"",
+                "jifen":"10",
+                "vip":"0"
             }
         ],
         "shang2":[
