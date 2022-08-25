@@ -4,7 +4,7 @@
         "qun_key":"",
         "qun_key2":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.kkykx.cn/?id=2",
-        "uptime":"2022-08-11",
+        "uptime":"2022-08-25",
         "key":"KeleFtygp7EMLU1",//通用工厂密匙
         "key_time":"1659283140",//工厂密匙可以使用到的日期
         "qun":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",//交流群key
@@ -17,9 +17,9 @@
         "in_text":"使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
         "ver":{
             "ver":"17",
-            "verName":"5.1.6",
-            "verSize":"16.0M",
-            "verTime":"2022-08-09",
+            "verName":"5.1.9",
+            "verSize":"24.0M",
+            "verTime":"2022-08-25",
             "must":"true1",
             "verType":"web",
             "verTxet":"/Ver5/config/app.html",
