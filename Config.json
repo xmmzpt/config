@@ -1,6 +1,7 @@
 {
 	"code": 200,
     "kele":{
+        "tzpy":"32",
         "qun_key":"",
         "qun_key2":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.kkykx.cn/?id=2",
@@ -356,7 +357,7 @@
                         "py":"0"
                     },
                     "bei":{
-                        "sign":"92D12669r;7B386A71r;04000000r;80d00200r",
+                        "sign":"92D12669r;7B386A71r",
                         "code":"10700",
                         "offset":"176",
                         "maxCode":"4",
