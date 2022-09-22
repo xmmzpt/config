@@ -5,7 +5,7 @@
         "qun_key":"",
         "qun_key2":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
         "bang_url":"https://faka.lqnwfq.top/?id=2",
-        "uptime":"2022-09-07",
+        "uptime":"2022-09-22",
         "key":"KeleFtygp7EMLU1",//通用工厂密匙
         "key_time":"1659283140",//工厂密匙可以使用到的日期
         "qun":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",//交流群key
@@ -215,10 +215,10 @@
         "pifu":{
             "vip":"2",
             "plan":[{
-                        "name":"预置全皮肤方案[2022-09-07更新]",
+                        "name":"预置全皮肤方案[2022-09-22更新]",
                         "url":"/Ver5/pifu/plan/plan1.json"
                     },{
-                        "name":"全皮肤含星传说[2022-09-07更新]",
+                        "name":"全皮肤含星传说[2022-09-22更新]",
                         "url":"/Ver5/pifu/plan/plan2.json"
                     }]
         },
@@ -371,12 +371,14 @@
                     },
                     "bei":{
                         "sign2":"80D00200r;CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r",
-                        "sign":"92D12669r;7B386A71r",
+                        "sign3":"92D12669r;7B386A71r",
+                        "sign":"CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r;F622E505r;C5FD4C71r;90E79454r;7B695CF6r",
                         "code":"10700",
                         "offset":"176",
                         "maxCode":"4",
                         "py2":"4",
-                        "py":"16"
+                        "py3":"16",
+                        "py":"0"
                     }
                 },
                 "list":{
