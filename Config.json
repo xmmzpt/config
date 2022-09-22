@@ -343,12 +343,12 @@
                     },
                     "zhao":{
                         "sign2":"B27F16B8r;487B1398r",
-                        "sign":"24B2BD2Fr;D333E51Ar;63F8322Fr;240C46C0r",
+                        "sign":"2D31ADA2r;43D128FBr",
                         "code":"1",
                         "offset":"40",
                         "maxCode":"1",
                         "py2":"16",
-                        "py":"-20"
+                        "py":"16"
                     },
                     "mod":{
                         "sign":"214E0000r;00000000r;E2BD2E50r;360DDB3Br",
@@ -486,8 +486,8 @@
 			    "text": "召唤师技能代码的位置",
 			    "sign2": "B27F16B8r;487B1398r",
 			    "address2": "28d8000",
-			    "sign": "24B2BD2Fr;D333E51Ar;63F8322Fr;240C46C0r",
-			    "address": "28DCCBC"
+			    "sign": "2D31ADA2r;43D128FBr",
+			    "address": "28DCC70"
             },
 		    "13": {
 			    "name": "装备和被动技能等",
