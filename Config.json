@@ -1,815 +1,886 @@
 {
-	"code": 200,
-    "kele":{
-        "tzpy":"68",
-        "qun_key":"",
-        "qun_key2":"7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
-        "bang_url":"https://faka.lqnwfq.top/?id=2",
-        "uptime":"2022-09-29",
-        "key":"喜欢喝可乐",//通用工厂密匙
-        "key_time":"1665158400",//工厂密匙可以使用到的日期
-        "qun":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",//交流群key
-        "wen_url":"https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5Ie1F&appChannel=share&businessType=10&from=246610&biz=ka",//常见问题
-        "log_url":"/Ver5/config/app.html",
-        "app_url":"https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4Q5LF&appChannel=share&contentID=VJ53&businessType=2&from=181174&shareSource=5&biz=ka",//关于助手
+    "code": 200,
+    "kele": {
+        "tzpy": "68",
+        "qun_key": "",
+        "qun_key2": "7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
+        "bang_url": "https://faka.lqnwfq.top/?id=2",
+        "payid":"10000104",
+        "paykey":"7eecf9ac06d348faa6aca49cd6340ca9",
+        "pay_url":"https://api.erguanmingmin.com/pay/api.php",
+        "pay_q_url":"https://api.erguanmingmin.com/pay/query.php",
+        "uptime": "2022-09-29",
+        "key": "喜欢喝可乐", //通用工厂密匙
+        "key_time": "1665158400", //工厂密匙可以使用到的日期
+        "qun": "ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0", //交流群key
+        "wen_url": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W5Ie1F&appChannel=share&businessType=10&from=246610&biz=ka", //常见问题
+        "log_url": "/Ver5/config/app.html",
+        "app_url": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W4Q5LF&appChannel=share&contentID=VJ53&businessType=2&from=181174&shareSource=5&biz=ka", //关于助手
         "QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
-	    "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
-        "in_url":"/down.html",
-        "in_text":"使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
-        "ver":{
-            "ver":"22",
-            "verName":"5.2.2",
-            "verSize":"24.0M",
-            "verTime":"2022-09-29",
-            "must":"true",
-            "verType":"web",
-            "verTxet":"/Ver5/config/app.html",
-            "verUrl2":"https://xmmz.lanzoui.com/b00nzgbef",
-            "verUrl3":"https://app.kele66.top/app/kele.apk",
-            "verUrl":"http://kl66.vip/kele1.apk",
-            "verUrl_Url":"https://fa.lqnwfq.top/api/lanzou.php?type=url&url=https://xmmz.lanzouy.com/iYq7j09835wd",//直链地址
-            "verUrl4":"https://cn.kstore.space/download/2746/kele.apk",
-            "WXurl":"https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
-            "QRurl":"https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1" ,
-            "PWDurl":"https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
-            "Pwdtext":"王者上号和谐，不能用了！其他游戏自测！"
-            
+        "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
+        "in_url": "/down.html",
+        "in_text": "使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
+        "ver": {
+            "ver": "22",
+            "verName": "5.2.2",
+            "verSize": "24.0M",
+            "verTime": "2022-09-29",
+            "must": "true",
+            "verType": "web",
+            "verTxet": "/Ver5/config/app.html",
+            "verUrl2": "https://xmmz.lanzoui.com/b00nzgbef",
+            "verUrl3": "https://app.kele66.top/app/kele.apk",
+            "verUrl": "http://kl66.vip/kele1.apk",
+            "verUrl_Url": "https://fa.lqnwfq.top/api/lanzou.php?type=url&url=https://xmmz.lanzouy.com/iYq7j09835wd", //直链地址
+            "verUrl4": "https://cn.kstore.space/download/2746/kele.apk",
+            "WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
+            "QRurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=qr&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
+            "PWDurl": "https://openmobile.qq.com/oauth2.0/m_authorize?_wv=16777218&status_os=10&client_id=[应用ID]&format=json&switch=1&status_version=29&status_machine=SHARK%20KLE-A0&sdkp=i&sdkv=3.51_full&sign=A36EED171E7779BC319C7A9425B97346&scope=all&style=35&redirect_uri=auth%3A%2F%2Fwww.qq.com%2F&display=mobile&response_type=token&loginfrom=main&cancel_display=1",
+            "Pwdtext": "王者上号和谐，不能用了！其他游戏自测！"
         },
-        "list":["/Ver5/config/config.json","/Ver5/config/wuhuhu.json","/Ver5/config/1136117475.json","/Ver5/config/9527.json"],
-        "jiao":"/Ver5/config/jiao.html",
-        "lunbo2":[{
-			"name": "第二届可乐杯开始报名了",
-			"biao": "皮肤、积分、会员等你来拿",
-			"type": "url",
-			"url": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W86SdQ&contentID=17ior&businessType=2&from=181174&shareSource=5&biz=ka",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/503/503-bigskin-5.jpg"
-		},{
-			"name": "7月21日18:00直播",
-			"biao": "今日抽奖积分、邀请码、会员",
-			"type": "url",
-			"url": "https://live.bilibili.com/23395197",
-			"img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
-		}],
-        "lunbo":[
-            
-        {
-			"name": "王者代练",
-			"biao": "可乐杯冠军队伍接单代练",
-			"type": "html",
-			"url": "/Ver5/html/dl/index.html",
-			"img": "https://s1.ax1x.com/2022/08/11/v8vVxA.jpg"
-		},{
-			"name": "可乐官网",
-			"biao": "教程与资源下载",
-			"type": "url",
-			"url": "http://kl66.vip",
-			"img": "https://s4.ax1x.com/2022/02/16/HWLXTg.png"
-		}, {
-			"name": "使用瑶妹皮肤教程",
-			"biao": "注入模式的原理",
-			"type": "url",
-			"url": "https://app.kele66.top/wiki/kele/log/#/WIKI?id=%e7%91%b6%e5%a6%b9%e7%9a%ae%e8%82%a4%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-4.jpg"
-		}, {
-			"name": "工厂密匙\\等级代挂\\授权验证",
-			"biao": "网页打不开的请切换wifi\\流量",
-			"type": "url",
-			"url": "https://faka.lqnwfq.top/",
-			"img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182-mobileskin-5.jpg"
-		}, {
-			"name": "可乐等级代挂",
-			"biao": "助力你飞速上皇冠",
-			"type": "url",
-			"url": "https://kele.lszy.cc/1193263",
-			"img": "https://z3.ax1x.com/2021/06/18/RSHPR1.png"
-		},
-		{
-			"name": "下载链接和教程都有",
-			"biao": "不识字的治不好",
-			"type": "url",
-			"url": "https://app.kele66.top",
-			"img": "https://z3.ax1x.com/2021/04/10/cdMC8S.jpg"
-		}],
-        "menu":[
-            {
-                "name":"经典功能",
-                "new":"全皮肤更新",
-                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
-                "type":"win",
-                "url":"db",
-                "tan":"",
-                "copy":""
-            },{
-                "name":"皮肤编辑器",
-                "new":"适配孙尚香",
-                "img":"https://game.gtimg.cn/images/yxzj/img201606/heroimg/136/136-smallskin-4.jpg",
-                "type":"win",
-                "url":"pifu",
-                "tan":"",
-                "copy":""
-            },{
-                "name":"新工厂模式",
-                "new":"适配更多属性",
-                "img":"https://game.gtimg.cn/images/yxzj/img201606/itemimg/1701.jpg",
-                "type":"win",
-                "url":"fty",
-                "tan":"",
-                "copy":""
-            }, {
-                "name":"自定义替换",
-                "new":"新",
-                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
-                "type":"win",
-                "url":"diy",
-                "tan":"请确保你添加进来的文件是基于王者最新DB文件制作的\n否则可能会出现卡进度条、资源损坏等异常情况",
-                "copy":""
-            }, {
-                "name":"战力查询",
-                "new":"新",
-                "img":"https://s4.ax1x.com/2022/02/18/HoyRW8.jpg",
-                "type":"win",
-                "url":"zhanli",
-                "tan":"",
-                "copy":""
-            }, {
-                "name":"资源包引入",
-                "new":"新",
-                "img":"https://s4.ax1x.com/2022/02/18/HoyRW8.jpg",
-                "type":"win",
-                "url":"in",
-                "tan":"",
-                "copy":""
-            },{
-                "name":"交流群",
-                "new":"新",
-                "img":"https://ts2.cn.mm.bing.net/th?id=OIP-C.P4DNSNrirTAARz7uh7scgwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
-                "type":"group",
-                "url":"ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",
-                "tan":"",
-                "copy":""
-            },{
-                "name":"可乐小说(测试)",
-                "new":"新",
-                "img":"https://ts2.cn.mm.bing.net/th?id=OIP-C.P4DNSNrirTAARz7uh7scgwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
-                "type":"book",
-                "url":"http://book.kl66.vip",
-                "tan":"",
-                "copy":""
-            }
+        "list": [
+            "/Ver5/config/config.json",
+            "/Ver5/config/wuhuhu.json",
+            "/Ver5/config/1136117475.json",
+            "/Ver5/config/9527.json"
         ],
-        "tool":[
+        "jiao": "/Ver5/config/jiao.html",
+        "lunbo2": [
             {
-                "name":"可乐脚本教程",
-                "new":"新",
-                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
-                "type":"url",
-                "url":"https://note.youdao.com/s/OCuxaFk5",
-                "tan":"这个是可乐助手专属脚本的格式规范，可以搭配可乐助手脚本编辑工具使用",
-                "copy":""
-            },{
-                "name":"可乐脚本编辑器",
-                "new":"新",
-                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
-                "type":"url",
-                "url":"https://xmmz.lanzoux.com/iTDVysrvc1e",
-                "tan":"",
-                "copy":""
-            },{
-                "name":"可乐上号器",
-                "new":"新",
-                "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
-                "type":"win",
-                "url":"login",
-                "tan":"注意：当前版本的上号器已不支持王者荣耀，上架此功能用于登录其他游戏！",
-                "copy":""
-            }
-        ],
-        "gonggao":{
-            "top":{
-                "type1":"html",
-                "type":"web",
-                "text":"/index.html",
-                "text2":"<head><meta charset=\"utf-8\"><style>.button {background-color: #4CAF50;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}</style></head>123发生什么事了<br><br><a href=\"kele://tan.kele.db/发生什么事了\">弹窗</a><br><a href=\"kele://url.kele.db/https://app.kele66.top/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89\">网页</a><br><a href=\"kele://win.kele.db/pifu\" class=\"button\">皮肤编辑器</a>",
-                "size":"8",
-                "color":"红色"
+                "name": "第二届可乐杯开始报名了",
+                "biao": "皮肤、积分、会员等你来拿",
+                "type": "url",
+                "url": "https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=1W86SdQ&contentID=17ior&businessType=2&from=181174&shareSource=5&biz=ka",
+                "img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/503/503-bigskin-5.jpg"
             },
-            "win":{
-                "type":"text",
-                "text":"本软件完全免费，如果你是花钱购买的，恭喜你被骗了\n如果你觉得好用可以打赏可乐\n每次游戏更新后必须重新初始化\n无效果请关闭加速器等\n\n交流群：8018708\n群简介里的就是可乐的所有群，其他均为假冒的 \n拿本软件引流 请注明作者"
+            {
+                "name": "7月21日18:00直播",
+                "biao": "今日抽奖积分、邀请码、会员",
+                "type": "url",
+                "url": "https://live.bilibili.com/23395197",
+                "img": "https://s1.ax1x.com/2022/06/04/XdVRxI.png"
+            }
+        ],
+        "lunbo": [
+            {
+                "name": "王者代练",
+                "biao": "可乐杯冠军队伍接单代练",
+                "type": "html",
+                "url": "/Ver5/html/dl/index.html",
+                "img": "https://s1.ax1x.com/2022/08/11/v8vVxA.jpg"
+            },
+            {
+                "name": "可乐官网",
+                "biao": "教程与资源下载",
+                "type": "url",
+                "url": "http://kl66.vip",
+                "img": "https://s4.ax1x.com/2022/02/16/HWLXTg.png"
+            },
+            {
+                "name": "使用瑶妹皮肤教程",
+                "biao": "注入模式的原理",
+                "type": "url",
+                "url": "https://app.kele66.top/wiki/kele/log/#/WIKI?id=%e7%91%b6%e5%a6%b9%e7%9a%ae%e8%82%a4%e4%bd%bf%e7%94%a8%e6%95%99%e7%a8%8b",
+                "img": "https://game.gtimg.cn/images/yxzj/img201606/skin/hero-info/505/505-bigskin-4.jpg"
+            },
+            {
+                "name": "工厂密匙\\等级代挂\\授权验证",
+                "biao": "网页打不开的请切换wifi\\流量",
+                "type": "url",
+                "url": "https://faka.lqnwfq.top/",
+                "img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/182/182-mobileskin-5.jpg"
+            },
+            {
+                "name": "可乐等级代挂",
+                "biao": "助力你飞速上皇冠",
+                "type": "url",
+                "url": "https://kele.lszy.cc/1193263",
+                "img": "https://z3.ax1x.com/2021/06/18/RSHPR1.png"
+            },
+            {
+                "name": "下载链接和教程都有",
+                "biao": "不识字的治不好",
+                "type": "url",
+                "url": "https://app.kele66.top",
+                "img": "https://z3.ax1x.com/2021/04/10/cdMC8S.jpg"
+            }
+        ],
+        "menu": [
+            {
+                "name": "经典功能",
+                "new": "全皮肤更新",
+                "img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type": "win",
+                "url": "db",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "皮肤编辑器",
+                "new": "适配孙尚香",
+                "img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/136/136-smallskin-4.jpg",
+                "type": "win",
+                "url": "pifu",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "新工厂模式",
+                "new": "适配更多属性",
+                "img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1701.jpg",
+                "type": "win",
+                "url": "fty",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "自定义替换",
+                "new": "新",
+                "img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type": "win",
+                "url": "diy",
+                "tan": "请确保你添加进来的文件是基于王者最新DB文件制作的\n否则可能会出现卡进度条、资源损坏等异常情况",
+                "copy": ""
+            },
+            {
+                "name": "战力查询",
+                "new": "新",
+                "img": "https://s4.ax1x.com/2022/02/18/HoyRW8.jpg",
+                "type": "win",
+                "url": "zhanli",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "资源包引入",
+                "new": "新",
+                "img": "https://s4.ax1x.com/2022/02/18/HoyRW8.jpg",
+                "type": "win",
+                "url": "in",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "交流群",
+                "new": "新",
+                "img": "https://ts2.cn.mm.bing.net/th?id=OIP-C.P4DNSNrirTAARz7uh7scgwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+                "type": "group",
+                "url": "ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "可乐小说(测试)",
+                "new": "新",
+                "img": "https://ts2.cn.mm.bing.net/th?id=OIP-C.P4DNSNrirTAARz7uh7scgwHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&pid=3.1&rm=2",
+                "type": "book",
+                "url": "http://book.kl66.vip",
+                "tan": "",
+                "copy": ""
+            }
+        ],
+        "tool": [
+            {
+                "name": "可乐脚本教程",
+                "new": "新",
+                "img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type": "url",
+                "url": "https://note.youdao.com/s/OCuxaFk5",
+                "tan": "这个是可乐助手专属脚本的格式规范，可以搭配可乐助手脚本编辑工具使用",
+                "copy": ""
+            },
+            {
+                "name": "可乐脚本编辑器",
+                "new": "新",
+                "img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type": "url",
+                "url": "https://xmmz.lanzoux.com/iTDVysrvc1e",
+                "tan": "",
+                "copy": ""
+            },
+            {
+                "name": "可乐上号器",
+                "new": "新",
+                "img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                "type": "win",
+                "url": "login",
+                "tan": "注意：当前版本的上号器已不支持王者荣耀，上架此功能用于登录其他游戏！",
+                "copy": ""
+            }
+        ],
+        "gonggao": {
+            "top": {
+                "type1": "html",
+                "type": "web",
+                "text": "/index.html",
+                "text2": "<head><meta charset=\"utf-8\"><style>.button {background-color: #4CAF50;border: none;color: white;padding: 15px 32px;text-align: center;text-decoration: none;display: inline-block;font-size: 16px;margin: 4px 2px;cursor: pointer;}</style></head>123发生什么事了<br><br><a href=\"kele://tan.kele.db/发生什么事了\">弹窗</a><br><a href=\"kele://url.kele.db/https://app.kele66.top/wiki/kele/log/#/WIKI?id=%e5%85%8d%e8%b4%b9%e7%bb%91%e5%ae%9a%e6%95%99%e7%a8%8b%ef%bc%88%e9%9c%80%e8%a6%81qq%e7%ad%89%e7%ba%a7%e8%be%be%e5%88%b012%e7%ba%a7%ef%bc%89\">网页</a><br><a href=\"kele://win.kele.db/pifu\" class=\"button\">皮肤编辑器</a>",
+                "size": "8",
+                "color": "红色"
+            },
+            "win": {
+                "type": "text",
+                "text": "本软件完全免费，如果你是花钱购买的，恭喜你被骗了\n如果你觉得好用可以打赏可乐\n每次游戏更新后必须重新初始化\n无效果请关闭加速器等\n\n交流群：8018708\n群简介里的就是可乐的所有群，其他均为假冒的 \n拿本软件引流 请注明作者"
             }
         },
-        "wen":{
-            "pifu":"基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n方案管理：使用预置或自定义的修改方案\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
-            "pifu2":"显示英雄：此开关会影响单机模式下英雄列表展示\n修改皮肤步骤：\n1.点击要替换的皮肤\n2.选择用作替换的皮肤\n修改星元步骤：\n1.点击拥有星元的皮肤后面的按钮\n2.选择要修改的星元套件\nPS：部分英雄无法操作显示隐藏",
-            "fty1":"基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n方案管理：使用预置或自定义的修改方案\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
-            "fty2":"没什么好看的，快选择一个英雄吧",
-            "fty3":"点击属性可以进行修改，修改完记得保存！\n长按可以跳转到内存列表\n部分属性有推荐值，欢迎分享你常用的值\n英雄和技能修改的第一条属性可以展开对应的列表",
-            "fty4":"列表选择",
-            "fty5":"装备选择",
-            "fty6":"此功能建议有GG基础的玩家使用\n\n特征码：尽量用一个比较少的数值做主特征码\n副特征码：基于主特征一定偏移量的另一条数据\n长按可以查看内存列表",
-            "fty7":"长按可以根据偏移跳转，点击可以修改数据",
-            "":"基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n批量执行：按从上到下的顺序运行你勾选的所有功能\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
-            "db":"基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n批量执行：按从上到下的顺序运行你勾选的所有功能\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
-            "web":""
+        "wen": {
+            "pifu": "基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n方案管理：使用预置或自定义的修改方案\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
+            "pifu2": "显示英雄：此开关会影响单机模式下英雄列表展示\n修改皮肤步骤：\n1.点击要替换的皮肤\n2.选择用作替换的皮肤\n修改星元步骤：\n1.点击拥有星元的皮肤后面的按钮\n2.选择要修改的星元套件\nPS：部分英雄无法操作显示隐藏",
+            "fty1": "基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n方案管理：使用预置或自定义的修改方案\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
+            "fty2": "没什么好看的，快选择一个英雄吧",
+            "fty3": "点击属性可以进行修改，修改完记得保存！\n长按可以跳转到内存列表\n部分属性有推荐值，欢迎分享你常用的值\n英雄和技能修改的第一条属性可以展开对应的列表",
+            "fty4": "列表选择",
+            "fty5": "装备选择",
+            "fty6": "此功能建议有GG基础的玩家使用\n\n特征码：尽量用一个比较少的数值做主特征码\n副特征码：基于主特征一定偏移量的另一条数据\n长按可以查看内存列表",
+            "fty7": "长按可以根据偏移跳转，点击可以修改数据",
+            "": "基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n批量执行：按从上到下的顺序运行你勾选的所有功能\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
+            "db": "基准DB：选择一个作为模板的文件\n初始化DB：就是进行初始化后获得的文件\n当前游戏DB：当前王者正在使用的文件\n自定义DB：其他功能生成或导出的文件\n读入DB：读入你选择的基准DB\n批量执行：按从上到下的顺序运行你勾选的所有功能\n替换DB：用你修改后的数据替换游戏DB\n输出DB：输出修改后的DB到本地",
+            "web": ""
         },
-        "pifu":{
-            "vip":"2",
-            "plan":[{
-                        "name":"预置全皮肤方案[2022-09-22更新]",
-                        "url":"/Ver5/pifu/plan/plan1.json"
-                    },{
-                        "name":"全皮肤含星传说[2022-09-22更新]",
-                        "url":"/Ver5/pifu/plan/plan2.json"
-                    }]
-        },
-        "fty":{
-            "vip":"2",
-            "menu":[{
-                    "name":"英雄修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/166.jpg",
-                    "url":"hero",
-                    "vip":"2"
-                },{
-                    "name":"装备修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/itemimg/2000.jpg",
-                    "url":"item",
-                    "vip":"3"
-                },{
-                    "name":"部分装备技能修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/itemimg/1239.jpg",
-                    "url":"item2",
-                    "vip":"3"
-                },{
-                    "name":"铭文修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/mingwen/3501.png",
-                    "url":"ming",
-                    "vip":"3"
-                },{
-                    "name":"召唤师技能修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/summoner/80115.jpg",
-                    "url":"zhao",
-                    "vip":"3"
-                },{
-                    "name":"召唤师修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/summoner/80104.jpg",
-                    "url":"zhao2",
-                    "vip":"3"
-                },{
-                    "name":"模式属性修改",
-                    "img":"https://z3.ax1x.com/2021/02/26/yxve2D.jpg",
-                    "url":"mod",
-                    "vip":"3"
-                },{
-                    "name":"模式上限修改",
-                    "img":"https://z3.ax1x.com/2021/04/19/cTSWcR.png",
-                    "url":"mod2",
-                    "vip":"3"
-                },{
-                    "name":"防御塔属性修改",
-                    "img":"https://z3.ax1x.com/2021/02/26/yxve2D.jpg",
-                    "url":"ta",
-                    "vip":"3"
-                },{
-                    "name":"部分被动技能修改",
-                    "img":"https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/50500.png",
-                    "url":"bei",
-                    "vip":"3"
-                },{
-                    "name":"轻量搜索器",
-                    "img":"https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
-                    "url":"sou",
-                    "vip":"3"
-                }],
-                "plan":[{
-                        "name":"无限火力方案[2022-07-13更新]",
-                        "url":"/Ver5/fty/plan/plan1.json"
-                    }],
-                "tshero":"/Ver5/fty/config/tshero.json",//特殊英雄
-                "ysming":"/Ver5/fty/config/ysming.json",//铭文列表
-                "tsitem":"/Ver5/fty/config/tsitem.json",//特殊装备
-                "dm":"/Ver5/fty/config/dm.txt",//代码大全
-                "sign":{
-                    "skin":{
-                    "sign":"69000000r;01000000r;4A135661r;8ADC4562r",
-                    "offset":"32",
-                    "from":"8",
-                    "to":"24",
-                    "maxCode":"550",
-                    "py":"0"
-                    },
-                    "skin_new":{
-                    "sign":"0429000069000000",
-                    "offset":"784",
-                    "xing":"592",
-                    "maxCode":"880",
-                    "py":"0",
-                    "url":"/Ver5/pifu/config/skin.json",
-                    "xing_url":"/Ver5/pifu/config/xing.json"
-                    }, 
-                    "hero":{
-                        "sign":"1DC8F626r;F9C96D93r",
-                        "code":"105",
-                        "offset":"880",
-                        "maxCode":"999",
-                        "py":"16"
-                    },
-                    "skills":{
-                        "sign":"04290000r;00000000r;869F0665r;A7F65397r",
-                        "code":"10500",
-                        "offset":"632",
-                        "maxCode":"99900",
-                        "py":"0"
-                    },
-                    "skills_xg":{
-                        "sign":"D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
-                        "code":"106000",
-                        "offset":"968",
-                        "maxCode":"999000",
-                        "py":"840"
-                    },
-                    "item":{
-                        "sign":"57040000r;00000000r;59E9E52Br;108675A0r;00010101r",
-                        "code":"1111",
-                        "offset":"528",
-                        "maxCode":"99999",
-                        "py":"0"
-                    },
-                    "ming":{
-                        "sign":"A1230000r;00000000r;A43B3766r;76AD6293r",
-                        "code":"3501",
-                        "offset":"320",
-                        "maxCode":"9999",
-                        "py":"1280"
-                    },
-                    "zhao":{
-                        "sign2":"B27F16B8r;487B1398r",
-                        "sign":"2D31ADA2r;43D128FBr",
-                        "code":"1",
-                        "offset":"40",
-                        "maxCode":"1",
-                        "py2":"16",
-                        "py":"16"
-                    },
-                    "mod":{
-                        "sign":"214E0000r;00000000r;E2BD2E50r;360DDB3Br",
-                        "code":"20001",
-                        "offset":"952",
-                        "maxCode":"30000",
-                        "py":"0"
-                    },
-                    "mod2":{
-                        "sign2":"F72E3AB9r;31E2C063r",
-                        "sign":"00090000r;10270000r;00000000r;000A0000r;10270000r;00000000r;000F0000r;36290000r;00000000r;00110000r;70170000r",
-                        "code":"2304",
-                        "offset":"108",
-                        "maxCode":"2500",
-                        "py2":"16",
-                        "py":"0"
-                    },
-                    "ta":{
-                        "sign":"01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
-                        "code":"1",
-                        "offset":"232",
-                        "maxCode":"1",
-                        "py":"0"
-                    },
-                    "bei":{
-                        "sign2":"80D00200r;CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r",
-                        "sign3":"92D12669r;7B386A71r",
-                        "sign":"CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r;F622E505r;C5FD4C71r;90E79454r;7B695CF6r",
-                        "code":"10700",
-                        "offset":"176",
-                        "maxCode":"4",
-                        "py2":"4",
-                        "py3":"16",
-                        "py":"0"
-                    }
+        "pifu": {
+            "vip": "2",
+            "plan": [
+                {
+                    "name": "预置全皮肤方案[2022-09-22更新]",
+                    "url": "/Ver5/pifu/plan/plan1.json"
                 },
-                "list":{
-                    "config":"/Ver5/fty/config/config.json",
-                    "hero":"/Ver5/fty/config/hero.json",
-                    "skills":"/Ver5/fty/config/skills.json",
-                    "skills_xg":"/Ver5/fty/config/skills_xg.json",
-                    "item":"/Ver5/fty/config/item.json",
-                    "ming":"/Ver5/fty/config/ming.json",
-                    "zhao":"/Ver5/fty/config/zhao.json",
-                    "mod":"/Ver5/fty/config/mod.json",
-                    "mod_name":"/Ver5/fty/config/mod_name.json",
-                    "mod2":"/Ver5/fty/config/mod2.json",
-                    "mod2_name":"/Ver5/fty/config/mod2_name.json",
-                    "skills_name":"/Ver5/fty/config/skills_name.json",
-                    "bei_name":"/Ver5/fty/config/bei_name.json",
-                    "bei_list":"/Ver5/fty/config/bei_list.json",
-                    "bei":"/Ver5/fty/config/bei.json",
-                    "ta":"/Ver5/fty/config/ta.json",
-                    "ta_name":"/Ver5/fty/config/ta_name.json"
+                {
+                    "name": "全皮肤含星传说[2022-09-22更新]",
+                    "url": "/Ver5/pifu/plan/plan2.json"
                 }
+            ]
         },
-        "offset":{
-            "list":["0","1","2","3","4","5","6","7","8","08","9","11","13"],
-            "0":{
+        "fty": {
+            "vip": "2",
+            "menu": [
+                {
+                    "name": "英雄修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/166/166.jpg",
+                    "url": "hero",
+                    "vip": "2"
+                },
+                {
+                    "name": "装备修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/2000.jpg",
+                    "url": "item",
+                    "vip": "3"
+                },
+                {
+                    "name": "部分装备技能修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/itemimg/1239.jpg",
+                    "url": "item2",
+                    "vip": "3"
+                },
+                {
+                    "name": "铭文修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/mingwen/3501.png",
+                    "url": "ming",
+                    "vip": "3"
+                },
+                {
+                    "name": "召唤师技能修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/summoner/80115.jpg",
+                    "url": "zhao",
+                    "vip": "3"
+                },
+                {
+                    "name": "召唤师修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/summoner/80104.jpg",
+                    "url": "zhao2",
+                    "vip": "3"
+                },
+                {
+                    "name": "模式属性修改",
+                    "img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg",
+                    "url": "mod",
+                    "vip": "3"
+                },
+                {
+                    "name": "模式上限修改",
+                    "img": "https://z3.ax1x.com/2021/04/19/cTSWcR.png",
+                    "url": "mod2",
+                    "vip": "3"
+                },
+                {
+                    "name": "防御塔属性修改",
+                    "img": "https://z3.ax1x.com/2021/02/26/yxve2D.jpg",
+                    "url": "ta",
+                    "vip": "3"
+                },
+                {
+                    "name": "部分被动技能修改",
+                    "img": "https://game.gtimg.cn/images/yxzj/img201606/heroimg/505/50500.png",
+                    "url": "bei",
+                    "vip": "3"
+                },
+                {
+                    "name": "轻量搜索器",
+                    "img": "https://z3.ax1x.com/2021/02/26/yxzSB9.jpg",
+                    "url": "sou",
+                    "vip": "3"
+                }
+            ],
+            "plan": [
+                {
+                    "name": "无限火力方案[2022-07-13更新]",
+                    "url": "/Ver5/fty/plan/plan1.json"
+                }
+            ],
+            "tshero": "/Ver5/fty/config/tshero.json", //特殊英雄
+            "ysming": "/Ver5/fty/config/ysming.json", //铭文列表
+            "tsitem": "/Ver5/fty/config/tsitem.json", //特殊装备
+            "dm": "/Ver5/fty/config/dm.txt", //代码大全
+            "sign": {
+                "skin": {
+                    "sign": "69000000r;01000000r;4A135661r;8ADC4562r",
+                    "offset": "32",
+                    "from": "8",
+                    "to": "24",
+                    "maxCode": "550",
+                    "py": "0"
+                },
+                "skin_new": {
+                    "sign": "0429000069000000",
+                    "offset": "784",
+                    "xing": "592",
+                    "maxCode": "880",
+                    "py": "0",
+                    "url": "/Ver5/pifu/config/skin.json",
+                    "xing_url": "/Ver5/pifu/config/xing.json"
+                },
+                "hero": {
+                    "sign": "1DC8F626r;F9C96D93r",
+                    "code": "105",
+                    "offset": "880",
+                    "maxCode": "999",
+                    "py": "16"
+                },
+                "skills": {
+                    "sign": "04290000r;00000000r;869F0665r;A7F65397r",
+                    "code": "10500",
+                    "offset": "632",
+                    "maxCode": "99900",
+                    "py": "0"
+                },
+                "skills_xg": {
+                    "sign": "D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
+                    "code": "106000",
+                    "offset": "968",
+                    "maxCode": "999000",
+                    "py": "840"
+                },
+                "item": {
+                    "sign": "57040000r;00000000r;59E9E52Br;108675A0r;00010101r",
+                    "code": "1111",
+                    "offset": "528",
+                    "maxCode": "99999",
+                    "py": "0"
+                },
+                "ming": {
+                    "sign": "A1230000r;00000000r;A43B3766r;76AD6293r",
+                    "code": "3501",
+                    "offset": "320",
+                    "maxCode": "9999",
+                    "py": "1280"
+                },
+                "zhao": {
+                    "sign2": "B27F16B8r;487B1398r",
+                    "sign": "2D31ADA2r;43D128FBr",
+                    "code": "1",
+                    "offset": "40",
+                    "maxCode": "1",
+                    "py2": "16",
+                    "py": "16"
+                },
+                "mod": {
+                    "sign": "214E0000r;00000000r;E2BD2E50r;360DDB3Br",
+                    "code": "20001",
+                    "offset": "952",
+                    "maxCode": "30000",
+                    "py": "0"
+                },
+                "mod2": {
+                    "sign2": "F72E3AB9r;31E2C063r",
+                    "sign": "00090000r;10270000r;00000000r;000A0000r;10270000r;00000000r;000F0000r;36290000r;00000000r;00110000r;70170000r",
+                    "code": "2304",
+                    "offset": "108",
+                    "maxCode": "2500",
+                    "py2": "16",
+                    "py": "0"
+                },
+                "ta": {
+                    "sign": "01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
+                    "code": "1",
+                    "offset": "232",
+                    "maxCode": "1",
+                    "py": "0"
+                },
+                "bei": {
+                    "sign2": "80D00200r;CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r",
+                    "sign3": "92D12669r;7B386A71r",
+                    "sign": "CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r;F622E505r;C5FD4C71r;90E79454r;7B695CF6r",
+                    "code": "10700",
+                    "offset": "176",
+                    "maxCode": "4",
+                    "py2": "4",
+                    "py3": "16",
+                    "py": "0"
+                }
+            },
+            "list": {
+                "config": "/Ver5/fty/config/config.json",
+                "hero": "/Ver5/fty/config/hero.json",
+                "skills": "/Ver5/fty/config/skills.json",
+                "skills_xg": "/Ver5/fty/config/skills_xg.json",
+                "item": "/Ver5/fty/config/item.json",
+                "ming": "/Ver5/fty/config/ming.json",
+                "zhao": "/Ver5/fty/config/zhao.json",
+                "mod": "/Ver5/fty/config/mod.json",
+                "mod_name": "/Ver5/fty/config/mod_name.json",
+                "mod2": "/Ver5/fty/config/mod2.json",
+                "mod2_name": "/Ver5/fty/config/mod2_name.json",
+                "skills_name": "/Ver5/fty/config/skills_name.json",
+                "bei_name": "/Ver5/fty/config/bei_name.json",
+                "bei_list": "/Ver5/fty/config/bei_list.json",
+                "bei": "/Ver5/fty/config/bei.json",
+                "ta": "/Ver5/fty/config/ta.json",
+                "ta_name": "/Ver5/fty/config/ta_name.json"
+            }
+        },
+        "offset": {
+            "list": [
+                "0",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "08",
+                "9",
+                "11",
+                "13"
+            ],
+            "0": {
                 "name": "单机皮肤",
-			    "text": "单机全皮肤",
-			    "sign": "69000000;01000000;4A135661;8ADC4562",
-			    "address": "1dd6b60"
+                "text": "单机全皮肤",
+                "sign": "69000000;01000000;4A135661;8ADC4562",
+                "address": "1dd6b60"
             },
-            "1":{
+            "1": {
                 "name": "皮肤列表",
-			    "text": "皮肤特效、图标、名称等",
-			    "sign": "0429000069000000",
-			    "address": "13bfd0c"
+                "text": "皮肤特效、图标、名称等",
+                "sign": "0429000069000000",
+                "address": "13bfd0c"
             },
-		    "2": {
-			    "name": "英雄属性",
-			    "text": "血量、攻速、可用的技能等",
-			    "sign": "1DC8F626r;F9C96D93r",
-			    "address": "60e0c"
-		    },
-		    "3": {
-			    "name": "装备属性",
-			    "text": "装备价格、属性、技能效果等",
-			    "sign": "57040000r;00000000r;59E9E52Br;108675A0r;00010101r",
-			    "address": "28db0ac"
+            "2": {
+                "name": "英雄属性",
+                "text": "血量、攻速、可用的技能等",
+                "sign": "1DC8F626r;F9C96D93r",
+                "address": "60e0c"
             },
-		    "4": {
-			    "name": "铭文属性",
-			    "text": "铭文属性",
-			    "sign": "A1230000r;00000000r;A43B3766r;76AD6293r",
-			    "address": "20c5770"
-		    },
-		    "5": {
-			    "name": "技能列表",
-			    "text": "蓝耗、CD时间、范围等",
-			    "sign": "04290000r;00000000r;869F0665r;A7F65397r",
-			    "address": "f6284"
+            "3": {
+                "name": "装备属性",
+                "text": "装备价格、属性、技能效果等",
+                "sign": "57040000r;00000000r;59E9E52Br;108675A0r;00010101r",
+                "address": "28db0ac"
             },
-		    "6": {
-			    "name": "技能效果",
-			    "text": "技能伤害、效果被动等",
-			    "sign": "D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
-			    "address": "5f2584"
+            "4": {
+                "name": "铭文属性",
+                "text": "铭文属性",
+                "sign": "A1230000r;00000000r;A43B3766r;76AD6293r",
+                "address": "20c5770"
             },
-		    "7": {
-			    "name": "防御塔属性",
-			    "text": "防御塔水晶血量 伤害等",
-			    "sign": "01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
-			    "address": "37CBF0"
+            "5": {
+                "name": "技能列表",
+                "text": "蓝耗、CD时间、范围等",
+                "sign": "04290000r;00000000r;869F0665r;A7F65397r",
+                "address": "f6284"
             },
-		    "8": {
-			    "name": "模式属性",
-			    "text": "回城技能、恢复技能、开局金币经验等",
-			    "sign": "214E0000r;00000000r;E2BD2E50r;360DDB3Br",
-			    "address": "ca7c"
+            "6": {
+                "name": "技能效果",
+                "text": "技能伤害、效果被动等",
+                "sign": "D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
+                "address": "5f2584"
             },
-		    "08": {
-			    "name": "模式属性2",
-			    "text": "冷却上限、韧性等",
+            "7": {
+                "name": "防御塔属性",
+                "text": "防御塔水晶血量 伤害等",
+                "sign": "01000000r;01000000r;ED29E94Cr;34358531r;B22F657Cr;A0E02DA2r",
+                "address": "37CBF0"
+            },
+            "8": {
+                "name": "模式属性",
+                "text": "回城技能、恢复技能、开局金币经验等",
+                "sign": "214E0000r;00000000r;E2BD2E50r;360DDB3Br",
+                "address": "ca7c"
+            },
+            "08": {
+                "name": "模式属性2",
+                "text": "冷却上限、韧性等",
                 "sign2": "F72E3AB9r;31E2C063r",
-			    "sign": "00090000r;10270000r;00000000r;000A0000r;10270000r;00000000r;000F0000r;36290000r;00000000r;00110000r;70170000r",
-			    "address2": "212d6fc",
-			    "address": "212D934"
+                "sign": "00090000r;10270000r;00000000r;000A0000r;10270000r;00000000r;000F0000r;36290000r;00000000r;00110000r;70170000r",
+                "address2": "212d6fc",
+                "address": "212D934"
             },
-		    "9": {
-			    "name": "兵线属性(1v1)",
-			    "text": "出兵时间之类的",
-			    "sign": "B50F0000r;07000000r;00000000r;983A0000r;78690000r",
-			    "address": "ad5a30"
+            "9": {
+                "name": "兵线属性(1v1)",
+                "text": "出兵时间之类的",
+                "sign": "B50F0000r;07000000r;00000000r;983A0000r;78690000r",
+                "address": "ad5a30"
             },
-		    "10": {
-			    "name": "复活时间",
-			    "text": "不同模式的复活时间",
-			    "sign": "1DC8F626r;F9C96D93r",
-			    "address": "60e0c"
+            "10": {
+                "name": "复活时间",
+                "text": "不同模式的复活时间",
+                "sign": "1DC8F626r;F9C96D93r",
+                "address": "60e0c"
             },
-		    "11": {
-			    "name": "召唤师技能位置",
-			    "text": "召唤师技能代码的位置",
-			    "sign2": "B27F16B8r;487B1398r",
-			    "address2": "28d8000",
-			    "sign": "2D31ADA2r;43D128FBr",
-			    "address": "28DCC70"
+            "11": {
+                "name": "召唤师技能位置",
+                "text": "召唤师技能代码的位置",
+                "sign2": "B27F16B8r;487B1398r",
+                "address2": "28d8000",
+                "sign": "2D31ADA2r;43D128FBr",
+                "address": "28DCC70"
             },
-		    "13": {
-			    "name": "装备和被动技能等",
-			    "text": "装备和部分英雄被动技能CD等",
-			    "sign2": "80D00200r;CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r",
+            "13": {
+                "name": "装备和被动技能等",
+                "text": "装备和部分英雄被动技能CD等",
+                "sign2": "80D00200r;CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r",
                 "sign3": "92D12669r;7B386A71r",
                 "sign": "CC290000r;00000000r;00000000r;00000000r;74F875ABr;2EA42C62r;F622E505r;C5FD4C71r;90E79454r;7B695CF6r",
-			    "address2": "20327B8",
+                "address2": "20327B8",
                 "address3": "20327ac",
                 "address": "2033924"
             },
-		    "16": {
-			    "name": "技能存储器",
-			    "text": "英雄主动技能存储时间及数量",
-			    "sign": "1DC8F626r;F9C96D93r",
-			    "address": "60e0c"
+            "16": {
+                "name": "技能存储器",
+                "text": "英雄主动技能存储时间及数量",
+                "sign": "1DC8F626r;F9C96D93r",
+                "address": "60e0c"
             }
         },
-        "shang":[
-            {   
-                "id":"1",
-                "name":"邀请码",
-                "img":"youhuiquan.png",
-                "text":"凭此邀请码可以加任意交流群\n交流群每天可以免费绑定一次设备",
-                "type":"copy",
-                "jifen":"200",
-                "vip":"2"
+        "shang": [
+            {
+                "id": "1",
+                "name": "邀请码",
+                "img": "youhuiquan.png",
+                "text": "凭此邀请码可以加任意交流群\n交流群每天可以免费绑定一次设备",
+                "type": "copy",
+                "jifen": "200",
+                "vip": "2"
             },
-            {   
-                "id":"2",
-                "name":"绑定设备",
-                "img":"awards_integral.png",
-                "text":"绑定当前设备，自动升级为普通会员，交流群内可以免费绑定\n更换框架或虚拟机需重新绑定",
-                "type":"vip",
-                "jifen":"30",
-                "vip":"0"
+            {
+                "id": "2",
+                "name": "绑定设备",
+                "img": "awards_integral.png",
+                "text": "绑定当前设备，自动升级为普通会员，交流群内可以免费绑定\n更换框架或虚拟机需重新绑定",
+                "type": "vip",
+                "jifen": "30",
+                "vip": "0"
             },
-            {   
-                "id":"3",
-                "name":"3天工厂会员",
-                "img":"vip1.png",
-                "text":"解锁3天工厂会员，可以使用完整的工厂模式\n此功能需要先绑定设备",
-                "type":"vip2",
-                "jifen":"50",
-                "vip":"2"
+            {
+                "id": "3",
+                "name": "3天工厂会员",
+                "img": "vip1.png",
+                "text": "解锁3天工厂会员，可以使用完整的工厂模式\n此功能需要先绑定设备",
+                "type": "vip2",
+                "jifen": "50",
+                "vip": "2"
             },
-            {   
-                "id":"4",
-                "name":"永久工厂会员",
-                "img":"vip2.png",
-                "text":"永久解锁工厂会员，可以使用完整的工厂模式\n此功能需要先绑定设备",
-                "type":"vip3",
-                "jifen":"1500",
-                "vip":"2"
+            {
+                "id": "4",
+                "name": "永久工厂会员",
+                "img": "vip2.png",
+                "text": "永久解锁工厂会员，可以使用完整的工厂模式\n此功能需要先绑定设备",
+                "type": "vip3",
+                "jifen": "1500",
+                "vip": "2"
             },
-            {   
-                "id":"5",
-                "name":"永久助手会员",
-                "img":"vip3.png",
-                "text":"永久解锁助手会员，涵盖工厂会员所有功能，更换设备无需重新绑定",
-                "type":"vip4",
-                "jifen":"2500",
-                "vip":"2"
-            },{   
-                "id":"16",
-                "name":"解绑QQ",
-                "img":"awards_integral.png",
-                "text":"解绑后你可以在交流群使用任意QQ进行绑定",
-                "type":"",
-                "jifen":"10",
-                "vip":"0"
+            {
+                "id": "5",
+                "name": "永久助手会员",
+                "img": "vip3.png",
+                "text": "永久解锁助手会员，涵盖工厂会员所有功能，更换设备无需重新绑定",
+                "type": "vip4",
+                "jifen": "2500",
+                "vip": "2"
+            },
+            {
+                "id": "16",
+                "name": "解绑QQ",
+                "img": "awards_integral.png",
+                "text": "解绑后你可以在交流群使用任意QQ进行绑定",
+                "type": "",
+                "jifen": "10",
+                "vip": "0"
             }
         ],
-        "shang_vip":[
-            {   
-                "id":"1",
-                "name":"邀请码",
-                "img":"youhuiquan.png",
-                "text":"凭此邀请码可以加任意交流群\n交流群每天可以免费绑定一次设备",
-                "type":"copy",
-                "jifen":"5",
-                "vip":"2"
+        "shang_vip": [
+            {
+                "id": "1",
+                "name": "邀请码",
+                "img": "youhuiquan.png",
+                "text": "凭此邀请码可以加任意交流群\n交流群每天可以免费绑定一次设备",
+                "type": "copy",
+                "jifen": "5",
+                "vip": "2"
             },
-            {   
-                "id":"2",
-                "name":"绑定设备",
-                "img":"awards_integral.png",
-                "text":"绑定当前设备，自动升级为普通会员，交流群内可以免费绑定\n更换框架或虚拟机需重新绑定",
-                "type":"vip",
-                "jifen":"1.5",
-                "vip":"0"
+            {
+                "id": "2",
+                "name": "绑定设备",
+                "img": "awards_integral.png",
+                "text": "绑定当前设备，自动升级为普通会员，交流群内可以免费绑定\n更换框架或虚拟机需重新绑定",
+                "type": "vip",
+                "jifen": "1.5",
+                "vip": "0"
             },
-            {   
-                "id":"3",
-                "name":"3天工厂会员",
-                "img":"vip1.png",
-                "text":"解锁3天工厂会员，可以使用完整的工厂模式\n此功能需要先绑定设备",
-                "type":"vip2",
-                "jifen":"0.88",
-                "vip":"2"
+            {
+                "id": "3",
+                "name": "3天工厂会员",
+                "img": "vip1.png",
+                "text": "解锁3天工厂会员，可以使用完整的工厂模式\n此功能需要先绑定设备",
+                "type": "vip2",
+                "jifen": "0.88",
+                "vip": "2"
             }
         ],
-        "shang2":[
-            {   
-                "id":"6",
-                "name":"爱吃坤排饭",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
+        "shang2": [
+            {
+                "id": "6",
+                "name": "爱吃坤排饭",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
             },
-            {   
-                "id":"7",
-                "name":"GA队",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"8",
-                "name":"夕乐队",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"9",
-                "name":"Moon战队",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
+            {
+                "id": "7",
+                "name": "GA队",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
             },
-            {   
-                "id":"6",
-                "name":"晚安",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
+            {
+                "id": "8",
+                "name": "夕乐队",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
             },
-            {   
-                "id":"7",
-                "name":"歪歪掉分日记",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"8",
-                "name":"意",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"9",
-                "name":"盗梦取心",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"10",
-                "name":"'暗恋'妲己",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"11",
-                "name":"第九片海",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"12",
-                "name":"爱笑的养子",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"13",
-                "name":"昕没有上限",
-                "img":"xiaolian.png",
-                "text":"有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
-                "type":"",
-                "jifen":"50",
-                "vip":"0"
-            },{   
-                "id":"14",
-                "name":"领取个人赛竞猜奖励",
-                "img":"awards_integral.png",
-                "text":"领取竞猜的奖励,领取时自动计算应该获得的积分",
-                "type":"",
-                "jifen":"0",
-                "vip":"0"
-            },{   
-                "id":"15",
-                "name":"领取团队赛竞猜奖励",
-                "img":"awards_integral.png",
-                "text":"领取竞猜的奖励,领取时自动计算应该获得的积分",
-                "type":"",
-                "jifen":"0",
-                "vip":"0"
+            {
+                "id": "9",
+                "name": "Moon战队",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "6",
+                "name": "晚安",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "7",
+                "name": "歪歪掉分日记",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "8",
+                "name": "意",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "9",
+                "name": "盗梦取心",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "10",
+                "name": "'暗恋'妲己",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "11",
+                "name": "第九片海",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "12",
+                "name": "爱笑的养子",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "13",
+                "name": "昕没有上限",
+                "img": "xiaolian.png",
+                "text": "有奖竞猜，每次竞猜消耗50积分，竞猜的队伍夺冠时赢取100积分，可以叠加",
+                "type": "",
+                "jifen": "50",
+                "vip": "0"
+            },
+            {
+                "id": "14",
+                "name": "领取个人赛竞猜奖励",
+                "img": "awards_integral.png",
+                "text": "领取竞猜的奖励,领取时自动计算应该获得的积分",
+                "type": "",
+                "jifen": "0",
+                "vip": "0"
+            },
+            {
+                "id": "15",
+                "name": "领取团队赛竞猜奖励",
+                "img": "awards_integral.png",
+                "text": "领取竞猜的奖励,领取时自动计算应该获得的积分",
+                "type": "",
+                "jifen": "0",
+                "vip": "0"
             }
-            ]
+        ]
     },
-	"config": {
-		"gitee": {
-			"type": "1",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b",
-			"user": "user",
+    "config": {
+        "gitee": {
+            "type": "1",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
+            "foot": "?access_token=5347dc45d0622feda6544191c98e324b",
+            "user": "user",
             "user2": "user2",
             "user3": "user3",
             "api2": "http://api.shenshu234.xyz/public/?s=",
-			"api3": "http://api3.eeenn.cn/public/?s=",
+            "api3": "http://api3.eeenn.cn/public/?s=",
             "api": "https://api2.eeenn.cn/public/?s=",
-			"key": "5347dc45d0622feda6544191c98e324"
-		},
+            "key": "5347dc45d0622feda6544191c98e324"
+        },
         "591D6B157D1CF9AA418AE63E998CB7D9": {
-			"type": "1",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b",
-			"user": "user",
+            "type": "1",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
+            "foot": "?access_token=5347dc45d0622feda6544191c98e324b",
+            "user": "user",
             "user2": "user2",
             "user3": "user3",
             "api2": "http://api.shenshu234.xyz/public/?s=",
-			"api3": "http://api3.eeenn.cn/public/?s=",
+            "api3": "http://api3.eeenn.cn/public/?s=",
             "api": "https://api2.eeenn.cn/public/?s=",
-			"key": "5347dc45d0622feda6544191c98e324"
-		},
-		"功能仓库": {
-			"type": "1",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
-		},
-		"备用": {
-			"type": "0",
-			"haed": "https://xmmz1.coding.net/p/game/d/game/git/raw/master",
-			"foot": "?download=false"
-		},
-		"github": {
-			"type": "0",
-			"haed": "https://raw.githubusercontent.com/xmmzpt/db_bak/master",
-			"foot": "",
-			"user": "user",
+            "key": "5347dc45d0622feda6544191c98e324"
+        },
+        "功能仓库": {
+            "type": "1",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
+            "foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+        },
+        "备用": {
+            "type": "0",
+            "haed": "https://xmmz1.coding.net/p/game/d/game/git/raw/master",
+            "foot": "?download=false"
+        },
+        "github": {
+            "type": "0",
+            "haed": "https://raw.githubusercontent.com/xmmzpt/db_bak/master",
+            "foot": "",
+            "user": "user",
             "user2": "user2",
             "user3": "user3"
-		},
-		"loca": {
-			"type": "-1",
-			"user": "user",
+        },
+        "loca": {
+            "type": "-1",
+            "user": "user",
             "user2": "user2",
             "user3": "user3"
-		},
-		"user": {
-			"type": "2",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
-		},
-		"user2": {
-			"type": "5",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele2/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
-		},
-		"user3": {
-			"type": "6",
-			"haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele3/contents",
-			"foot": "?access_token=5347dc45d0622feda6544191c98e324b"
-		}
-	},
-	"game": {
-		"list": ["王者荣耀", "王者荣耀体验服", "lol", "和平精英"],
-		"天天酷跑": {
-			"appid": "1",
-			"id": "100692648",
-			"wxid": "wx95a3a4d7c627e07d",
-			"packName": "com.tencent.pao",
-			"activity": "GameCenterActivity"
-		},
-		"王者荣耀": {
-			"appid": "1",
-			"id": "1104466820",
-			"wxid": "wx95a3a4d7c627e07d",
-			"packName": "com.tencent.tmgp.sgame",
-			"activity": "GameCenterActivity"
-		},
-		"王者荣耀体验服": {
-			"appid": "1",
-			"id": "1104791911",
-			"wxid": "wx71a79717188d990b",
-			"packName": "com.tencent.tmgp.sgamece",
-			"activity": "GameCenterActivity"
-		},
-		"和平精英": {
-			"appid": "1",
-			"id": "1106467070",
-			"wxid": "wxc4c0253df149f02d",
-			"packName": "com.tencent.tmgp.pubgmhd",
-			"activity": "GameCenterActivity"
-		},
-		"lol": {
-			"appid": "1",
-			"id": "1106040804",
-			"wxid": "wx5a611599efa17e78",
-			"packName": "com.tencent.lolm",
-			"activity": "GameCenterActivity"
-		}
-	}
+        },
+        "user": {
+            "type": "2",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele/contents",
+            "foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+        },
+        "user2": {
+            "type": "5",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele2/contents",
+            "foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+        },
+        "user3": {
+            "type": "6",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/kele3/contents",
+            "foot": "?access_token=5347dc45d0622feda6544191c98e324b"
+        }
+    },
+    "game": {
+        "list": [
+            "王者荣耀",
+            "王者荣耀体验服",
+            "lol",
+            "和平精英"
+        ],
+        "天天酷跑": {
+            "appid": "1",
+            "id": "100692648",
+            "wxid": "wx95a3a4d7c627e07d",
+            "packName": "com.tencent.pao",
+            "activity": "GameCenterActivity"
+        },
+        "王者荣耀": {
+            "appid": "1",
+            "id": "1104466820",
+            "wxid": "wx95a3a4d7c627e07d",
+            "packName": "com.tencent.tmgp.sgame",
+            "activity": "GameCenterActivity"
+        },
+        "王者荣耀体验服": {
+            "appid": "1",
+            "id": "1104791911",
+            "wxid": "wx71a79717188d990b",
+            "packName": "com.tencent.tmgp.sgamece",
+            "activity": "GameCenterActivity"
+        },
+        "和平精英": {
+            "appid": "1",
+            "id": "1106467070",
+            "wxid": "wxc4c0253df149f02d",
+            "packName": "com.tencent.tmgp.pubgmhd",
+            "activity": "GameCenterActivity"
+        },
+        "lol": {
+            "appid": "1",
+            "id": "1106040804",
+            "wxid": "wx5a611599efa17e78",
+            "packName": "com.tencent.lolm",
+            "activity": "GameCenterActivity"
+        }
+    }
 }
