@@ -740,7 +740,7 @@
     "config": {
         "gitee": {
             "type": "1",
-            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents",
+            "haed": "https://gitee.com/api/v5/repos/zeitu_admin/db/contents/jiu",
             "foot": "?access_token=5347dc45d0622feda6544191c98e324b",
             "user": "user",
             "user2": "user2",
