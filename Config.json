@@ -22,15 +22,15 @@
         "in_text": "使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
         "ver": {
             "ver": "23",
-            "verName": "5.2.3",
+            "verName": "5.2.4",
             "verSize": "24.0M",
-            "verTime": "2022-11-04",
+            "verTime": "2022-11-05",
             "must": "true",
             "verType": "web",
             "verTxet": "/Ver5/config/app.html",
             "verUrl2": "https://xmmz.lanzoui.com/b00nzgbef",
             "verUrl3": "https://app.kele66.top/app/kele.apk",
-            "verUrl": "http://kl66.vip/kele1.apk",
+            "verUrl": "http://kl66.vip/kele.apk",
             "verUrl_Url": "https://fa.lqnwfq.top/api/lanzou.php?type=url&url=https://xmmz.lanzouy.com/iYq7j09835wd", //直链地址
             "verUrl4": "https://cn.kstore.space/download/2746/kele.apk",
             "WXurl": "https://open.weixin.qq.com/connect/app/qrconnect?appid=[应用ID]&bundleid=[应用包名]&scope=snsapi_login,snsapi_userinfo,snsapi_friend,snsapi_message,scope_what_you_want&state=weixin&from=message&isappinstalled=0",
