@@ -22,9 +22,9 @@
         "in_text": "使用前请确保助手有Root权限以及存储权限\n本工具仅用于往王者荣耀数据目录引入文件\n引入的文件将自动授予777权限\n文件默认引入到/com.tencent.tmgp.sgame\n如果要引入到指定目录需要将上级目录也打包到压缩包",
         "ver": {
             "ver": "25",
-            "verName": "5.2.4",
+            "verName": "5.2.5",
             "verSize": "24.0M",
-            "verTime": "2022-11-05",
+            "verTime": "2022-11-24",
             "must": "true",
             "verType": "web",
             "verTxet": "/Ver5/config/app.html",
