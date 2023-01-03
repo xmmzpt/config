@@ -311,11 +311,12 @@
                     "xing_url": "/Ver5/pifu/config/xing.json"
                 },
                 "hero": {
-                    "sign": "1DC8F626r;F9C96D93r",
+                    "sign": "31336661r;36306530r",
+                    //1DC8F626r;F9C96D93r",
                     "code": "105",
                     "offset": "880",
                     "maxCode": "999",
-                    "py": "16"
+                    "py": "20"
                 },
                 "skills": {
                     "sign": "04290000r;00000000r;869F0665r;A7F65397r",
