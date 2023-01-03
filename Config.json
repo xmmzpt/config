@@ -294,7 +294,7 @@
             "sign": {
                 "skin": {
                     "sign": "69000000r;01000000r;4A135661r;8ADC4562r",
-                    "offset": "32",
+                    "offset": "40",
                     "from": "8",
                     "to": "24",
                     "maxCode": "550",
