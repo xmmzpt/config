@@ -1,7 +1,7 @@
 {
     "code": 200,
     "kele": {
-        "替换模式": "不删除",
+        "替换模式": "不删除1",
         "tzpy": "68",
         "qun_key": "",
         "qun_key2": "7ZQSrbRnAE7aLeyd-OhTwWtTB8j4_JI4",
@@ -314,7 +314,7 @@
                     "sign": "31336661r;36306530r",
                     //1DC8F626r;F9C96D93r",
                     "code": "105",
-                    "offset": "880",
+                    "offset": "888",
                     "maxCode": "999",
                     "py": "20"
                 },
@@ -441,8 +441,9 @@
             "2": {
                 "name": "英雄属性",
                 "text": "血量、攻速、可用的技能等",
-                "sign": "1DC8F626r;F9C96D93r",
-                "address": "60e0c"
+                "sign": "31336661r;36306530r",
+                "address": "1a89b8",
+                "address2": "60e0c"
             },
             "3": {
                 "name": "装备属性",
