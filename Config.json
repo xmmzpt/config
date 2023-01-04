@@ -326,8 +326,11 @@
                     "py": "0"
                 },
                 "skills_xg": {
-                    "sign": "D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
-                    "code": "106000",
+                    
+                    "sign": "61DB1FE9r;B11AF283r;50DCA6C6r;6B1DD8AFr;00000000r;00000000r;14A6F626r;0D372B96r",
+                    "sign2": "D490471Fr;9A7144F2r;642FD01Br;AD24C462r",
+                    "code": "105000",
+                    "code2": "106000",
                     "offset": "968",
                     "maxCode": "999000",
                     "py": "840"
