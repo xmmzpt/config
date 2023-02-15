@@ -10,7 +10,7 @@
         "paykey":"7eecf9ac06d348faa6aca49cd6340ca9",
         "pay_url":"https://api.erguanmingmin.com/pay/api.php",
         "pay_q_url":"https://api.erguanmingmin.com/pay/query.php",
-        "uptime": "2022-11-04",
+        "uptime": "2023-02-15",
         "key": "喜欢喝可乐", //通用工厂密匙
         "key_time": "1665158400", //工厂密匙可以使用到的日期
         "qun": "ePbWncuxh8JSaiKwS6qBCC6DZaWQlBE0", //交流群key
@@ -311,12 +311,12 @@
                     "xing_url": "/Ver5/pifu/config/xing.json"
                 },
                 "hero": {
-                    "sign": "31336661r;36306530r",
+                    "sign": "69000000r;00000000r;78E7FEBBr;7B27557Ar",
                     //1DC8F626r;F9C96D93r",
                     "code": "105",
                     "offset": "888",
                     "maxCode": "999",
-                    "py": "20"
+                    "py": "0"
                 },
                 "skills": {
                     "sign": "04290000r;00000000r;869F0665r;A7F65397r",
@@ -444,8 +444,8 @@
             "2": {
                 "name": "英雄属性",
                 "text": "血量、攻速、可用的技能等",
-                "sign": "31336661r;36306530r",
-                "address": "1a89b8",
+                "sign": "69000000r;00000000r;78E7FEBBr;7B27557Ar",
+                "address": "277984",
                 "address2": "60e0c"
             },
             "3": {
