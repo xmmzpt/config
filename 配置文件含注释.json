@@ -1,0 +1,65 @@
+{
+    "code":"200",
+    "ver":{
+        "ver":"2",//最新版本号
+        "vermin":"1"//最低版本号，低于此版本需强制更新
+    },
+    "config":{
+        //config为默认版本设置，如果对应版本的参数为空则使用此处的配置
+        "url":"https://gitee.com/api/v5/repos/zeitu_admin/cola/contents/",
+        "pram":"?access_token=5347dc45d0622feda6544191c98e324b",
+        "type":"1",
+        "key":"5347dc45d0622feda6544191c98e324",
+        "api":"https://api2.eeenn.cn/public/",
+        "web":"www.kl789.cn",
+        "app":"https://www.kl789.cn/kele.apk",
+        "sha":"f25d3a0ee70827da8626b72c9893a75a6e7193df",//获取当前最新sha http://api2.eeenn.cn/public/?s=/App/getgiteesha
+        "gonggao":"/html/index/index.html",//公告文件链接
+        "text":"",//版本提示
+        "lunbo": [
+            {
+                "name": "王者代练",
+                "biao": "可乐杯冠军队伍接单代练",
+                "type": "html",
+                "url": "/Ver5/html/dl/index.html",
+                "img": "https://s1.ax1x.com/2022/08/11/v8vVxA.jpg"
+            },
+            {
+                "name": "可乐官网",
+                "biao": "教程与资源下载",
+                "type": "url",
+                "url": "https://www.kl789.cn",
+                "img": "https://s4.ax1x.com/2022/02/16/HWLXTg.png"
+            },
+            {
+                "name": "可乐等级代挂",
+                "biao": "助力你飞速上皇冠",
+                "type": "url",
+                "url": "https://kele.lszy.cc/1193263",
+                "img": "https://z3.ax1x.com/2021/06/18/RSHPR1.png"
+            }
+        ],
+        "1":"2"
+    },
+    "1":{
+        "url":"https://gitee.com/api/v5/repos/zeitu_admin/cola/contents/",
+        "pram":"?access_token=5347dc45d0622feda6544191c98e324b",
+        "key":"5347dc45d0622feda6544191c98e324",
+        "api":"https://api2.eeenn.cn/public/",
+        //"sha":"f25d3a0ee70827da8626b72c9893a75a6e7193df",
+        "verName":"1.0",
+        "verText":"更新吧",
+        "verSize":"24.0M",
+        "verTime":"2023-02-15"
+    },
+    "2":{
+        "url":"https://gitee.com/api/v5/repos/zeitu_admin/cola/contents/",
+        "pram":"?access_token=5347dc45d0622feda6544191c98e324b",
+        "key":"5347dc45d0622feda6544191c98e324",
+        "app":"http://api2.eeenn.cn/public/api/lanzou.php?type=down&url=https://xmmz.lanzouy.com/ipzmy0nophid",
+        "verName":"2.0",
+        "verText":"更新吧",
+        "verSize":"24.0M",
+        "verTime":"2023-02-15"
+    }
+}
